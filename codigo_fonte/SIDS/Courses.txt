@@ -1,0 +1,191 @@
+#ID	Entity	Level	Name
+1	19	Bacharelado	Geologia
+2	19	Bacharelado	Engenharia De Transportes
+3	7	Bacharelado	Arquitetura E Urbanismo
+4	27	Bacharelado	Jornalismo
+5	27	Bacharelado	Relações Públicas
+6	10	Licenciatura	Teatro
+7	30	Bacharelado	Odontologia
+8	8	Bacharelado	Engenharia De Alimentos
+9	3	Bacharelado	Agronomia
+10	26	Bacharelado	História
+11	26	Licenciatura	História
+12	13	Bacharelado	Ciências Econômicas
+13	38	Bacharelado	Matemática
+14	3	Bacharelado	Medicina Veterinária
+15	33	Grau Não Definido	Geografia
+16	36	Grau Não Definido	Geografia
+17	48	Grau Não Definido	Geografia
+18	33	Licenciatura	Geografia
+19	38	Licenciatura	Matemática
+20	39	Licenciatura	Matemática
+21	5	Licenciatura	Matemática
+22	45	Licenciatura	Letras
+23	38	Licenciatura	Matemática
+24	23	Bacharelado	Enfermagem
+25	41	Bacharelado E Licenciatura	História
+26	20	Bacharelado	Direito
+27	7	Bacharelado	Direito
+28	37	Licenciatura	Letras
+29	22	Licenciatura	Educação Física
+30	31	Licenciatura	Educação Física
+31	6	Licenciatura	Educação Física
+32	23	Bacharelado E Licenciatura	Enfermagem
+33	10	Bacharelado	Artes Cênicas
+34	10	Licenciatura	Artes Cênicas
+35	33	Bacharelado	Geografia
+36	36	Bacharelado	Geografia
+37	36	Licenciatura	Geografia
+38	48	Licenciatura	Geografia
+39	48	Bacharelado	Geografia
+40	13	Bacharelado	Administração
+41	13	Bacharelado	Ciências Contábeis
+42	21	Licenciatura	Psicologia
+43	27	Bacharelado	Comunicação Social
+44	3	Bacharelado	Zootecnia
+45	5	Licenciatura	Química
+46	45	Licenciatura	História
+47	5	Licenciatura	Física
+48	35	Licenciatura	Física
+49	44	Licenciatura	Química
+50	31	Licenciatura	Ciências Biológicas
+51	1	Bacharelado	Administração
+52	38	Grau Não Definido	Matemática
+53	25	Bacharelado	Farmácia
+54	21	Bacharelado E Licenciatura	Psicologia
+55	45	Bacharelado	Psicologia
+56	21	Bacharelado	Psicologia
+57	44	Grau Não Definido	Química
+58	18	Grau Não Definido	Ciências Sociais
+59	6	Bacharelado	Biomedicina
+60	40	Bacharelado	Ciência Da Computação
+61	44	Bacharelado	Química
+62	28	Licenciatura	Educação Intercultural
+63	31	Bacharelado	Ciências Da Computação
+64	28	Grau Não Definido	Educação Intercultural
+65	6	Bacharelado	Enfermagem
+66	24	Bacharelado	Engenharia Civil
+67	5	Bacharelado	Ciências Da Computação
+68	24	Bacharelado	Engenharia De Minas
+69	24	Bacharelado	Engenharia De Produção
+70	31	Bacharelado	Psicologia
+71	31	Bacharelado E Licenciatura	Psicologia
+72	9	Bacharelado	Engenharia Ambiental E Sanitária
+73	8	Bacharelado	Engenharia Florestal
+74	40	Bacharelado	Engenharia De Software
+75	11	Bacharelado	Engenharia Mecânica
+76	43	Bacharelado	Engenharia Química
+77	38	Bacharelado	Estatística
+78	21	Licenciatura	Pedagogia
+79	40	Bacharelado	Sistemas De Informação
+80	12	Bacharelado	Zootecnia
+81	33	Bacharelado	Ciências Ambientais
+82	22	Bacharelado	Educação Física
+83	17	Bacharelado	Arquitetura E Urbanismo
+84	3	Bacharelado	Engenharia Florestal
+85	46	Bacharelado	Direito
+86	41	Grau Não Definido	Ciências Sociais
+87	43	Bacharelado	Química
+88	31	Bacharelado	Enfermagem
+89	2	Licenciatura	Filosofia
+90	7	Bacharelado	Serviço Social
+91	43	Licenciatura	Química
+92	39	Bacharelado	Matemática Industrial
+93	32	Bacharelado	Ecologia E Análise Ambiental
+94	10	Licenciatura	Música
+95	27	Bacharelado	Biblioteconomia
+96	13	Bacharelado	Administração
+97	17	Licenciatura	Artes Visuais
+98	22	Licenciatura	Educação Física
+99	10	Licenciatura	Artes Cênicas
+100	34	Licenciatura	Física
+101	32	Licenciatura	Ciências Biológicas
+102	34	Licenciatura	Física
+103	42	Bacharelado	Biotecnologia
+104	31	Bacharelado	Ciências Biológicas
+105	18	Bacharelado	Museologia
+106	6	Bacharelado	Fisioterapia
+107	6	Bacharelado	Educação Física
+108	28	Licenciatura	Letras - Libras
+109	10	Bacharelado	Direção De Arte
+110	27	Bacharelado	Gestão Da Informação
+111	10	Licenciatura	Artes Cênicas
+112	17	Licenciatura	Artes Visuais
+113	32	Licenciatura	Ciências Biológicas
+114	22	Licenciatura	Educação Física
+115	22	Licenciatura	Dança
+116	17	Licenciatura	Artes Visuais
+117	17	Bacharelado	Design De Ambientes
+118	5	Bacharelado	Química
+119	41	Bacharelado	Ciências Sociais
+120	41	Licenciatura	Ciências Sociais
+121	14	Licenciatura	Pedagogia
+122	41	Bacharelado E Licenciatura	Ciências Sociais
+123	28	Licenciatura	Letras: Espanhol
+124	28	Bacharelado	Letras: Estudos Literários
+125	28	Licenciatura	Letras: Francês
+126	28	Licenciatura	Letras: Inglês
+127	28	Bacharelado	Letras: Linguística
+128	28	Licenciatura	Letras: Português
+129	47	Licenciatura	Pedagogia
+130	34	Bacharelado	Física Médica
+131	1	Bacharelado	Administração Pública
+132	7	Bacharelado	Administração
+133	34	Bacharelado	Engenharia Física
+134	17	Bacharelado	Design Gráfico
+135	21	Grau Não Definido	Psicologia
+136	23	Grau Não Definido	Enfermagem
+137	18	Bacharelado	Relações Internacionais
+138	31	Grau Não Definido	Psicologia
+139	17	Bacharelado	Design De Moda
+140	2	Bacharelado	Filosofia
+141	41	Grau Não Definido	História
+142	14	Licenciatura	Educação Do Campo
+143	2	Licenciatura	Educação Do Campo
+144	41	Licenciatura	História
+145	41	Bacharelado	História
+146	15	Licenciatura	Filosofia
+147	28	Bacharelado	Letras: Tradução E Intepret. Em Libras-Português
+148	32	Licenciatura	Ciências Biológicas
+149	6	Bacharelado	Medicina
+150	19	Bacharelado	Engenharia De Produção
+151	39	Licenciatura	Matemática
+152	15	Bacharelado	Filosofia
+153	10	Bacharelado	Musicoterapia
+154	34	Bacharelado	Física
+155	34	Licenciatura	Física
+156	32	Bacharelado	Biomedicina
+157	32	Bacharelado	Ciências Biológicas
+158	32	Licenciatura	Ciências Biológicas
+159	4	Bacharelado	Ciências Biológicas
+160	4	Licenciatura	Ciências Biológicas
+161	16	Bacharelado	Nutrição
+162	10	Licenciatura	Educação Musical
+163	10	Bacharelado	Música
+164	17	Licenciatura	Artes Visuais
+165	17	Bacharelado	Artes Visuais
+166	8	Bacharelado	Agronomia
+167	29	Bacharelado	Medicina
+168	9	Bacharelado	Engenharia Civil
+169	11	Bacharelado	Engenharia De Computação
+170	11	Bacharelado	Engenharia Elétrica
+171	28	Grau Não Definido	Letras
+172	28	Licenciatura	Letras
+173	28	Bacharelado	Letras
+174	10	Grau Não Definido	Artes Cênicas
+175	15	Grau Não Definido	Filosofia
+176	43	Grau Não Definido	Química
+177	12	Bacharelado	Medicina Veterinária
+178	18	Licenciatura	Ciências Sociais
+179	18	Bacharelado	Ciências Sociais
+180	31	Bacharelado	Medicina
+181	35	Bacharelado	Física
+182	18	Bacharelado	Ciências Sociais - Políticas Públicas
+183	50		Residência Multiprofissional de Saúde do HC
+184	50		Residência Multiprofissional de Saúde do HC
+185	50		COREMU
+186	24	Bacharelado	Engenharia Mecânica
+187	39	Bacharelado	Engenharia Mecatrônica
+188	44	Bacharelado	Química Industrial
+189	40	Bacharelado	Inteligência Artificial
+190	38	Mestrado	ProfMAT

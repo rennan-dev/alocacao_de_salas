@@ -1,0 +1,46 @@
+Rodando normalmente com limite de 30% para cima e 30% para baixo, obtemos 901 pedidos
+não alocados.
+
+901/5292 = 17% de pedidos não alocados
+
+Se remover a restrição da sala ser 30% maior ou menor do que a capacidade do pedido,
+reduzimos para 175 o número de pedidos não alocados.
+
+175/5292 = 3% de pedidos não alocados.
+
+Como o peso aumenta caso a sala seja diferente do número de alunos que a está requisitando,
+o peso faz a melhor alocação.
+
+Acho que tirar a restrição é melhor, o código vai escolher a melhor sala para aquele pedido. 
+Pode surgir problema no caso de dois pedidos:
+Pedido 1: 25 pessoas
+Pedido 2: 40 pessoas
+Sala: 30 pessoas
+A sala seria alocada para o pedido 1. No 30% isso não iria acontecer. Isso seria um problema?
+
+Rodando primeiramente com restrições e depois sem restrições tive 207 pedidos não alocados.
+
+4% de pedidos não alocados
+
+Por ora decidi manter sem restrições.
+
+Observação: Pedidos que são no dia 7, ou domingo, não são vistos e nem alocados, desse modo estamos
+perdendo esses pedidos, o que fazer com eles?
+
+A alocação atual + a minha alocação gera 419 pedidos não atendidos.
+
+Os 175 que sobraram:
+- 88 do INF, tipo 2
+- 51 CAD Ateliê, não existe motivos pra não terem sido alocados
+- 33 pedidos no CAC para tipo 2, sala 105, única do tipo 2, lotada com alguns pedidos que não
+deveriam ser pra laborátorios. 
+
+Após análise percebi que meu código não estava lidando bem com tipos de sala.
+No final, estava esquecendo de subtrair -1 quando ia fazer a alocação. Resolvido isso, fiz novamente a analise.
+
+Novamente:
+
+175 do que sobraram:
+- 90 do INF, tipo 2, não há salas do tipo 2 no INF, mas tem special 2, talvez erro de formatação?
+- 51 CAD Ateliê, mesmo tendo espaço
+- 34 CAC Laboratorio, mesmo tendo espaço.
