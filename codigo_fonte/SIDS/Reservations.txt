@@ -1,0 +1,1305 @@
+#ID	Group	Course	Vacanc	Matric	Priori	Special	Name
+1	1	81	60	51	1	1	Natureza E Sociedade
+3	3	53	40	33	1	1	Bromatologia
+5	5	76	25	17	1	1	Gerenciamento E Controle Ambiental
+6	6	178	40	22	2	1	Tópicos De Antropologia I
+8	8	161	50	43	1	1	Introdução A Genética
+9	9	60	50	24	1	1	Matemática Discreta
+10	10	142	15	10	1	1	Educação Especial E Inclusão
+11	11	169	35	55	1	1	Desenho Técnico
+13	12	156	35	25	1	1	Biofísica
+14	13	43	60	56	1	1	Cultura Brasileira
+16	15	79	45	16	1	1	Manutenção De Software
+18	17	178	60	27	1	1	Antropologia 3
+21	12	156	15	11	2	1	Métodos Analíticos Em Biomedicina
+22	20	8	50	45	1	1	Química Geral
+23	21	13	60	69	1	1	Geometria Analítica
+24	22	5	50	55	2	1	Direitos Humanos E Cidadania
+27	25	78	35	52	3	1	Políticas Educacionais E Fracasso Escolar
+28	26	156	62	63	1	1	Genética
+29	27	157	40	34	1	1	Zoologia Iii
+31	29	157	40	18	1	1	Biogeografia
+32	30	155	45	19	1	1	Políticas Educacionais No Brasil
+33	31	35	20	22	2	1	Tópicos Em Geografia Humana
+34	32	81	30	23	2	1	Geoprocessamento Ii
+35	33	95	40	38	1	1	Representação Descritiva Iii
+36	34	12	20	1	2	1	Métodos Dinâmicos Aplicados À Macroeconomia
+37	35	93	50	92	2	1	Introdução À Biologia Marinha
+38	36	60	50	57	1	1	Introdução À Computabilidade E À Complexidade Computacional
+39	37	178	40	19	1	1	Estágio Supervisionado I:Educação Não-Formal
+41	39	79	45	58	1	1	Introdução À Programação
+42	40	167	15	15	1	1	Saúde Do Adulto E Do Idoso - Sistema Urinário
+43	41	40	60	46	1	1	Introdução À Administração Pública
+44	42	19	60	28	1	1	Linguagem E Matemática
+45	43	41	48	39	1	1	Fundamentos Da Microeconomia
+46	44	177	40	27	1	1	Genética E Evolução
+47	34	12	50	15	1	1	Tópicos Especiais Em Teoria Econômica
+48	45	83	40	38	1	1	Projeto 7
+49	43	41	48	36	1	1	Instituições Do Direito Público E Privado
+51	47	18	30	30	1	1	Geografia E Sociedade
+52	48	8	50	34	1	1	Ciências Dos Materiais
+53	49	166	40	45	1	1	Metabolismo Celular
+54	22	5	35	23	1	1	Ética E Legislação Em Rp E Comunicação
+55	50	103	34	23	1	1	Cultura De Célula Vegetal
+57	17	178	60	45	1	1	Sociologia 3
+58	52	41	48	39	1	1	Direito Empresarial
+61	55	142	25	15	1	1	Educação Popular E Movimentos Sociais
+62	56	155	45	23	1	1	Didática Para O Ensino De Física
+63	57	5	27	34	1	1	Fotografia
+64	58	41	48	24	1	1	Direito Trabalhista E Previdenciário
+65	59	133	60	65	1	1	Física I
+67	61	180	10	10	1	1	Tutorial Em Saúde Iii
+69	63	179	30	20	1	1	Trabalho Final De Curso 2
+71	17	178	60	53	1	1	Métodos E Técnicas De Pesquisa Social 2
+72	65	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos
+73	66	48	50	33	3	1	Metodologia De Pesquisa Científica
+74	67	91	25	38	1	1	Introdução À Língua Brasileira De Sinais - Libras
+75	68	88	6	5	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+76	69	79	60	36	1	1	Governança De Ti
+77	70	158	40	26	1	1	Biologia Molecular
+78	71	81	15	24	2	1	Solos E Meio Ambiente
+79	72	180	9	9	1	1	Tutorial Em Saúde Ii
+80	73	182	55	38	1	1	Introdução Ao Estudo De Políticas Públicas
+81	74	74	40	31	1	1	Construção De Software
+82	75	4	50	38	2	1	Jornalismo Especializado
+84	77	58	40	29	1	1	Sociologia 1
+85	28	88	7	4	1	1	Saúde Coletiva I
+87	79	155	45	18	1	1	Prática De Ensino Iii
+88	80	103	34	22	1	1	Farmacologia
+89	81	77	20	18	2	1	Introdução À Análise De Risco
+90	82	93	25	22	1	1	Introdução À Bioestatística
+91	83	60	45	38	1	1	Introdução À Programação
+92	80	103	30	25	1	1	Biotecnologia Aplicada À Patologia
+93	84	156	61	75	1	1	Epidemiologia
+95	86	119	40	38	1	1	Laboratório De Audiovisual
+96	8	161	50	45	1	1	Química Geral Teórica
+98	65	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Sistema Urinário
+99	55	142	15	9	1	1	Estágio De Docência Em Ciências Da Natureza No Ensino Médio Ou Eja Iii
+100	88	41	48	40	1	1	Contabilidade Introdutória I
+102	13	43	60	52	1	1	Introdução À Publicidade E Propaganda
+103	90	156	25	7	2	1	Diagnóstico Molecular
+107	93	18	31	33	1	1	Geomorfologia I
+108	94	154	60	54	1	1	Cálculo 3a
+110	96	103	20	15	1	1	Bases Da Biotecnologia
+111	97	19	50	26	1	1	Didática Da Matemática I
+112	98	161	40	35	1	1	Economia
+113	99	155	55	48	1	1	Introdução À Física
+115	30	155	54	75	1	1	Física Matemática I
+116	26	156	35	36	1	1	Biossegurança
+117	101	79	60	68	1	1	Linguagens E Paradigmas De Programação
+118	102	40	58	70	1	1	Fundamentos Da Microeconomia
+119	103	95	40	32	1	1	Políticas Públicas Na Área Social, Cultural E Educacional
+121	104	4	50	59	2	1	Psicologia
+122	34	12	40	26	1	1	Economia Social
+123	105	29	40	40	3	1	Fundamentos Da Educação No Cinema
+124	106	18	40	22	1	1	Geografia De Goiás
+125	107	53	45	45	1	1	Imunologia
+127	109	41	48	26	1	1	Contabilidade Governamental Ii
+128	110	79	60	60	1	1	Lógica Matemática
+129	111	79	60	77	1	1	Arquitetura De Computadores
+131	113	177	60	63	1	1	Imunologia Veterinária
+132	114	68	50	52	3	1	Hidrogeologia
+133	115	77	40	43	1	1	Álgebra Linear
+134	116	18	30	20	1	1	Estágio Supervisionado Em Geografia Iii
+135	117	93	50	60	1	1	Ciência Do Solo
+136	118	167	20	20	1	1	Método Clínico I
+138	120	87	50	42	1	1	Físico-Química 1
+139	121	53	10	8	1	1	Farmácia Hospitalar
+140	122	167	14	14	1	1	Método Clínico Iii
+141	3	53	45	22	1	1	Assistência Farmacêutica Em Serviços De Saúde
+142	123	154	55	69	1	1	Mecânica Quântica I
+145	77	58	40	28	1	1	Sociologia 1
+146	109	41	48	40	1	1	Contabilidade De Custos
+147	126	13	50	48	1	1	Introdução À Teoria Dos Números
+148	127	81	40	52	2	1	Recursos Físicos Da Terra
+149	28	88	21	4	1	1	Saúde Coletiva I
+151	129	103	34	28	1	1	Biologia Celular
+152	130	7	36	32	1	1	Fisiologia Humana
+153	131	12	50	32	1	1	Formação Econômica Do Brasil
+154	132	157	15	28	2	1	Mutagênese Ambiental
+155	133	5	30	23	1	1	Teorias Da Comunicação I
+156	134	137	50	39	1	1	Introdução Às Relações Internacionais
+157	135	167	15	13	1	1	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva
+158	136	158	48	30	1	1	Zoologia I - Filogenia
+159	116	18	30	18	2	1	Formação Do Território Brasileiro
+161	138	12	40	10	1	1	Demografia Econômica
+163	77	58	40	28	1	1	Antropologia 1
+164	139	166	50	57	1	1	Cálculo 2b
+165	140	157	40	29	1	1	Bioquímica Ii
+167	123	154	45	24	1	1	Física Do Estado Sólido I
+170	141	161	20	20	1	1	Fisiologia Humana
+171	133	5	60	46	2	1	Cultura Brasileira
+172	142	74	60	55	1	1	Computação E Sociedade
+173	51	110	24	20	1	1	Sistemas De Informação E Decisão I
+174	143	137	50	33	1	1	Economia Brasileira
+175	144	152	45	47	1	1	Estética E Filosofia Da Arte
+176	141	161	40	42	1	1	Bioquímica I
+178	145	133	25	20	1	1	Eletrônica 1
+179	63	179	40	22	2	1	Tópicos De Sociologia I
+180	146	137	45	35	2	1	Tópicos De Relações Internacionais
+181	19	117	65	5	1	1	Estágio Curricular 1
+182	147	103	20	61	3	1	Astrobiologia
+183	148	78	12	13	1	1	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii
+184	149	35	30	23	1	1	Geografia E Sociedade
+185	150	95	50	47	1	1	Linguagens De Classificação I
+186	141	161	41	42	1	1	Fisiologia Humana
+187	51	110	40	42	1	1	Usos E Usuários Da Informação
+188	151	75	25	16	1	1	Desenho Técnico Mecânico
+189	152	79	60	58	1	1	Análise E Projeto De Algoritmos
+190	34	12	50	32	1	1	Formação Econômica Do Brasil
+191	153	87	60	43	1	1	Termodinâmica Fundamental
+192	97	19	40	21	1	1	Psicologia Da Educação I
+194	154	76	30	23	1	1	Fenômenos De Transporte 2
+196	136	158	50	25	1	1	Química Geral Teórica
+197	156	40	50	55	1	1	Empreendedorismo I
+198	157	154	50	52	1	1	Física Matemática Ii
+199	104	4	26	25	1	1	Fotojornalismo
+200	137	88	45	49	1	1	Patologia Humana
+201	158	83	20	18	1	1	Instalações Prediais I - Hidráulico
+202	26	156	35	37	1	1	Biomedicina E Saúde Coletiva
+204	160	167	60	62	1	1	Saúde, Família E Comunidade I
+205	161	87	60	66	1	1	Cálculo 1a
+207	153	87	55	70	1	1	Química Orgânica 2
+208	10	142	15	10	1	1	Psicologia Da Educação Ii
+212	163	161	40	46	1	1	Bioestatística
+215	133	5	30	23	1	1	Introdução Às Relações Públicas
+216	156	40	50	21	1	1	Pesquisa Operacional
+217	165	158	33	32	1	1	Sistemática De Criptógamos
+218	166	167	15	15	1	1	Método Clínico Iii
+219	109	41	48	38	1	1	Pesquisa Aplicada A Contabilidade
+220	167	142	50	11	1	1	Políticas E Gestão Da Educação
+221	132	157	20	29	2	1	Tópicos Em Biologia
+222	156	40	50	23	1	1	Administração De Recursos Materiais E Patrimoniais
+223	168	158	40	23	1	1	Biologia Evolutiva
+224	118	167	20	23	1	1	Método Clínico I
+225	52	41	48	39	1	1	Direito Empresarial
+228	51	110	24	21	1	1	Gerencia De Sistemas De Informação
+229	170	60	40	40	1	1	Arquitetura De Computadores
+230	136	158	45	32	1	1	Biologia Celular
+231	171	179	50	48	1	1	Sociologia 3
+232	37	178	60	56	1	1	Estatística Aplicada Às Ciências Sociais 2
+233	172	12	50	41	1	1	Introdução Às Ciências Sociais
+235	174	87	25	36	1	1	Fundamentos De Mineralogia
+238	129	103	50	32	1	1	Química Geral Teoria
+239	77	58	40	27	1	1	Universidade, Cursos E Mercado De Trabalho Nas Ciências Sociais
+240	175	164	40	29	1	1	Fundamentos Filosóficos E Sócio-Hist. Da Educação
+241	176	79	45	50	1	1	Engenharia De Requisitos
+242	177	87	40	34	1	1	Física Ii
+243	178	73	40	17	1	1	Genética Molecular
+244	179	103	30	29	1	1	Biotecnologia Aplicada À Microbiologia
+247	181	103	30	32	1	1	Bioquímica Metabólica
+250	183	18	40	39	1	1	Biogeografia
+251	139	166	40	64	1	1	Introdução À Computação
+252	136	158	43	31	1	1	Física Aplicada À Biologia
+253	184	13	20	15	1	1	Equações Diferenciais Ordinárias Ii
+254	26	156	50	39	1	1	Química Geral
+257	186	157	48	36	1	1	Física Aplicada À Biologia
+258	187	93	25	29	1	1	Ecofisiologia Animal
+259	22	5	30	26	1	1	Gestão Estratégica
+260	188	142	15	11	1	1	Didática E Formação De Professores Do Campo
+261	109	41	48	42	1	1	Organização, Sistemas E Métodos
+262	189	161	45	42	1	1	Parasitologia Humana
+263	30	155	20	6	1	1	Estágio I
+264	190	8	60	64	1	1	Álgebra Linear
+267	193	35	30	16	1	1	Prática De Planejamento Ambiental
+268	82	93	55	40	1	1	Ecologia Evolutiva
+269	28	88	21	1	1	1	Saúde Coletiva I
+270	107	53	20	14	1	1	Microbiologia Geral
+271	170	60	40	28	1	1	Software Básico
+272	34	12	45	39	1	1	Microeconomia I
+273	194	8	60	86	1	1	Física Iii
+274	195	103	30	23	1	1	Legislação Em Biotecnologia - Propriedade Intelectual
+276	84	156	35	30	1	1	Biologia Molecular
+278	71	81	30	43	2	1	Planejamento Ambiental
+279	197	167	59	59	1	1	Introdução Ao Cuidar I
+280	198	13	50	31	1	1	Geometria Plana
+282	200	167	20	24	1	1	Método Clínico I
+283	201	130	25	7	1	1	Princípios Físicos De Radioterapia
+284	202	19	31	34	2	1	Projetos Educacionais
+285	69	79	45	27	1	1	Interação Humano-Computador
+286	136	158	43	35	1	1	Fundamentos Filosóficos E Sócio-Históricos Da Educação
+287	203	77	26	54	3	1	Introduction To Data Science Using R
+289	42	19	60	37	1	1	Geometria Analítica
+291	158	83	40	29	1	1	Antropologia E Sociologia Urbana
+293	206	41	48	52	1	1	Sistemas De Informações Contábeis
+294	207	5	30	26	1	1	Fundamentos De Administração
+295	208	91	50	65	1	1	Física 1
+297	135	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Sistema Urinário
+298	209	73	25	16	1	1	Introdução À Computação
+299	210	157	40	33	1	1	Biologia De Microrganismos
+300	12	156	35	33	1	1	Bioquímica I
+301	211	153	20	5	1	1	Neuropsicologia
+302	174	87	20	20	1	1	Introdução As Operações Unitárias
+303	212	12	60	60	1	1	Álgebra Linear
+304	118	167	20	1	1	1	Corpo Humano Saudável I
+305	158	83	20	20	1	1	Instalações Prediais I - Hidráulico
+306	187	93	25	33	1	1	Ecofisiologia Animal
+308	153	87	30	25	1	1	Química Analítica Quantitativa
+309	213	91	40	18	1	1	Química Analítica Quantitativa
+311	215	166	50	54	1	1	Cálculo 2b
+317	42	19	60	34	1	1	Cálculo Diferencial
+318	219	35	32	33	1	1	Geomorfologia I
+319	109	41	48	32	1	1	Contabilidade Tributária
+320	149	35	30	23	1	1	Cartografia I
+321	220	43	50	31	2	1	História Da Publicidade
+322	67	91	50	7	1	1	Físico-Química 2
+323	110	79	60	60	1	1	Introdução Aos Sistemas De Informação
+324	156	40	50	29	1	1	Gestão E Planejamento Estratégico
+325	221	53	60	58	1	1	Genética A
+326	222	146	25	10	1	1	Psicologia Da Educação I
+327	126	13	100	54	1	1	Cálculo De Funções De Várias Variáveis
+329	3	53	15	14	1	1	Bromatologia
+331	224	18	40	30	1	1	Fundamentos Filosóficos E Sócio-Históricos Da Educ
+332	225	158	42	44	1	1	Bioquímica I
+333	226	133	45	23	1	1	Introdução À Computação E Informação Quântica
+334	227	137	25	11	1	1	Laboratório De Relações Internacionais Iv
+337	229	83	50	45	1	1	Cálculo 1c
+340	230	103	34	25	1	1	Bioética
+343	232	54	35	43	3	1	Fundam. Da Clínica Psicanalítica De Freud A Lacan
+344	3	53	25	20	2	1	Química Ambiental Aplicada À Farmácia
+346	77	58	40	28	1	1	Introdução À Metodologia Científica
+348	227	137	50	38	1	1	Negociações Internacionais E Processos Decisórios
+349	234	79	45	30	1	1	Arquitetura De Software
+350	152	79	45	48	1	1	Banco De Dados 2
+351	207	5	30	21	1	1	Teorias Da Comunicação I
+352	26	156	50	40	1	1	Química Geral
+353	235	137	50	37	1	1	Sociologia E Relações Internacionais
+354	236	156	60	54	1	1	Hematologia Básica
+355	150	95	50	48	1	1	Teoria Da Comunicação
+356	237	74	40	24	1	1	Métodos E Ferramentas De Engenharia De Software
+357	156	40	50	37	1	1	Gestão De Projetos
+359	238	153	35	28	3	1	Introdução Aos Estudos Sobre Envelhecimento
+360	239	74	40	57	1	1	Programação Orientada A Objetos
+361	117	93	50	47	1	1	Introdução À Climatologia
+362	79	155	45	11	1	1	Prática De Ensino Iii
+363	240	74	40	22	1	1	Gerência De Configuração De Software
+365	242	166	40	28	1	1	Fisiologia Do Desenvolvimento Vegetal
+367	68	88	45	17	1	1	Gestão Em Saúde E Enfermagem I
+368	177	87	40	41	1	1	Estrutura E Propriedades Da Matéria
+369	244	72	40	37	1	1	Desenho I
+371	246	168	35	33	1	1	Desenho I
+372	247	157	32	43	2	1	Biologia Da Conservação
+373	225	158	30	20	1	1	Biofísica
+374	135	167	15	11	1	1	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil
+375	248	77	40	19	1	1	Banco De Dados
+376	133	5	55	44	2	1	Sociologia
+378	208	91	50	47	1	1	Psicologia Da Educação 1
+379	153	87	50	44	1	1	Química Orgânica 1
+383	110	79	46	71	1	1	Algoritmos E Estruturas De Dados 1
+387	94	154	60	73	1	1	Física Ii
+388	251	167	20	21	1	1	Método Clínico I
+389	154	76	50	39	1	1	Introdução À Ciência De Materiais
+391	98	161	44	51	2	1	Inquéritos Dietéticos
+392	252	5	50	46	1	1	Assessoria Em Comunicação I
+394	9	60	50	28	1	1	Metodologia De Pesquisa Em Computação
+400	5	76	35	22	1	1	Higiene E Segurança Do Trabalho
+401	253	167	60	65	1	1	Saúde, Família E Comunidade I
+402	80	103	20	7	2	1	Seminários Em Biotecnologia
+404	42	19	60	49	1	1	Geometria Analítica
+405	186	157	48	36	1	1	Anatomia Vegetal
+406	254	105	40	28	1	1	Introdução À Museologia
+407	220	43	60	48	1	1	Redação Publicitária I
+408	34	12	40	20	1	1	Economia Internacional
+411	137	88	13	23	1	1	Parasitologia Humana
+413	144	152	50	28	2	1	Tópicos De Filosofia Da Ciência
+414	177	87	53	59	1	1	Cálculo 2a
+415	256	87	30	33	2	1	Preparo De Amostras
+417	195	103	30	25	1	1	Aplicações Biotecnológicas Em Imunologia
+418	136	158	35	25	1	1	Zoologia I - Filogenia
+420	127	81	30	43	2	1	Tópicos Em Geologia
+422	101	79	60	39	1	1	Gestão De Ti
+424	134	137	50	48	1	1	Economia I
+425	213	91	45	30	1	1	Química Orgânica 1
+426	208	91	50	20	1	1	Cálculo 1b
+427	259	12	40	40	1	1	Mercado De Derivativos I
+431	261	36	30	8	1	1	Climatologia I
+432	262	1	40	37	2	1	Tópicos Em Geologia 1
+433	263	77	25	21	1	1	Estatística I
+436	235	137	50	60	1	1	Política Internacional Contemporânea
+437	156	40	50	10	2	1	Análise Multivariada Aplicada À Administração
+438	265	142	15	9	1	1	Fundamentos Filosóficos E Sócio Históricos Da Educação
+439	116	18	30	22	1	1	Trabalho De Conclusão De Curso I
+440	144	152	45	27	2	1	Estética
+441	82	93	10	9	1	1	Plantas Criptogâmicas
+442	144	152	55	40	2	1	Tópicos De Filosofia I
+444	266	167	15	15	1	1	Método Clínico Iii
+445	267	166	50	40	1	1	Química Geral
+448	5	76	30	20	1	1	Modelagem E Simulação De Processos
+449	26	156	35	36	1	1	Biomedicina E Saúde Coletiva
+451	269	167	15	12	1	1	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos
+453	94	154	60	62	1	1	Cálculo Numérico
+454	143	137	50	33	1	1	Probabilidade E Estatística
+455	270	91	50	47	1	1	Química Fundamental
+457	104	4	28	33	1	1	Fotojornalismo
+458	184	13	30	20	1	1	Álgebra Ii
+459	272	120	20	12	1	1	Psicologia Da Educação I
+460	206	41	48	23	1	1	Análise Das Demonstrações Contábeis
+461	33	95	50	41	1	1	Administração De Bibliotecas Outras Unidades De Informação
+462	41	40	60	37	1	1	Introdução À Administração De Empresas
+464	145	133	25	12	1	1	Engenharia De Segurança
+465	254	105	50	39	1	1	Introdução À Antropologia
+466	273	161	40	40	1	1	Antropologia
+467	171	179	48	57	1	1	Políticas Para O Desenvolvimento Econômico
+468	241	80	45	40	1	1	Zoologia Aplicada À Zootecnia
+470	274	156	30	30	1	1	Bioinformática
+471	66	48	50	16	1	1	Estágio I
+472	51	110	50	42	1	1	Introdução À Economia
+473	63	179	40	39	2	1	Tópicos De Ciência Política I
+474	275	18	40	19	1	1	Metodologia De Ensino De Geografia I
+475	202	19	15	22	1	1	Prática De Ensino Orientada
+476	183	18	40	31	1	1	Estágio Supervisionado Em Geografia I
+477	117	93	50	51	1	1	Zoologia Dos Vertebrados
+478	89	30	15	4	1	1	Núcleos Temáticos De Pesquisa Em Educação Física
+479	20	8	50	43	1	1	Química Geral
+481	225	158	40	48	1	1	Sistemática De Criptógamos
+483	131	12	40	23	1	1	Macroeconomia Ii
+484	276	158	40	38	1	1	Biologia Parasitária
+485	143	137	45	27	2	1	Tópicos De Estudos Regionais
+490	81	77	20	16	1	1	Análise De Séries Temporais
+491	279	43	61	71	1	1	Ética Da Comunicação E Legislação Publicitária
+492	156	40	50	16	1	1	Pesquisa De Marketing
+493	280	166	40	35	1	1	Química Analítica Teórica
+494	281	91	40	46	1	1	Física 3
+495	34	12	40	33	1	1	Organização Industrial
+496	156	40	50	28	1	1	Planejamento Financeiro E Orçamento Operacional
+498	34	12	30	24	1	1	Elaboração E Análise De Projetos
+499	26	156	60	61	1	1	Cálculo 1c
+500	283	158	40	40	1	1	Ecologia De Comunidades
+501	101	79	45	33	1	1	Sistemas Distribuídos
+502	284	4	50	58	1	1	Sociologia
+504	156	40	100	58	2	1	Aplicações Em Administração Iii
+505	142	74	45	62	1	1	Introdução À Programação
+507	286	170	25	32	1	1	Desenho
+510	288	81	30	29	1	1	Prática De Campo Integrada I
+512	172	12	60	56	1	1	Cálculo 1b
+513	13	43	60	56	1	1	História Da Arte
+515	215	166	40	22	1	1	Anatomia Vegetal
+516	218	92	50	18	1	1	Banco De Dados
+517	181	103	50	35	1	1	Química Analítica Teórica
+518	139	166	50	38	1	1	Química Analítica Teórica
+519	202	19	40	22	1	1	Didática Da Matemática Iii
+520	161	87	60	70	1	1	Estatística
+521	167	142	50	11	1	1	Leitura E Produção De Textos I
+525	291	165	33	55	3	1	Histórias Em Quadrinhos De Autor
+526	157	154	30	32	1	1	Física Computacional I
+527	269	167	15	12	1	1	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil
+528	292	19	50	22	1	1	Fundamentos De Análise
+529	239	74	45	31	1	1	Linguagens E Paradigmas De Programação
+533	294	50	40	11	1	1	Inglês Instrumental
+534	295	88	45	36	1	1	Psicologia No Processo Saúde-Doença
+537	70	158	40	33	1	1	Morfologia E Sistemática De Espermatófitas
+538	297	12	30	31	1	1	Educação Para Relações Étnicas Raciais E Para Os Direitos Humanos
+539	74	74	40	19	1	1	Processos De Software
+540	33	95	40	45	1	1	Tópicos Especiais Em Tecnologia Da Informação Ii
+541	43	41	48	42	1	1	Matemática Financeira Aplicada A Contabilidade
+543	259	12	20	15	1	1	Monografia I
+544	127	81	30	29	2	1	Geologia Ambiental
+548	34	12	40	42	1	1	Economia Social
+549	206	41	48	38	1	1	Contabilidade De Custos
+550	110	79	45	43	1	1	Metodologia Científica 1
+552	187	93	50	25	1	1	Ecologia Molecular
+553	299	154	60	51	1	1	Introdução À Física
+554	107	53	40	40	1	1	Imunologia Clínica
+555	300	130	45	21	1	1	Biofísica I
+556	201	130	45	14	1	1	Introdução À Instrumentação Biomédica
+557	187	93	50	62	1	1	Ecofisiologia Animal
+558	301	157	35	49	2	1	Espécies Ameaçadas
+560	302	74	40	19	1	1	Requisitos De Software
+561	79	155	20	6	1	1	Estágio Iii
+562	47	18	33	32	1	1	Organização Do Trabalho Científico
+563	303	18	32	32	1	1	Geografia Da População I
+564	63	179	41	54	2	1	Tópicos De Políticas Públicas I
+565	13	43	60	55	1	1	Leitura E Produção Textual
+566	160	167	60	57	1	1	Saúde, Família E Comunidade Iii
+567	79	155	55	44	1	1	Introdução À Física Quântica
+569	240	74	50	44	1	1	Qualidade De Software
+570	156	40	50	37	1	1	Logística Empresarial
+571	306	76	30	12	1	1	Projeto De Instalações Químicas
+572	79	155	20	7	1	1	Estágio Iii
+573	51	110	35	27	1	1	Segurança Da Informação E Proteção Do Conhecimento
+574	203	77	10	9	2	1	Trabalho De Conclusão De Curso Ii
+575	28	88	28	5	1	1	Saúde Coletiva I
+580	133	5	70	44	1	1	Leitura E Produção De Texto I
+582	37	178	45	28	1	1	Fundam. Filos. E Sócio-Hist Da Educação
+584	310	43	50	15	3	1	Trabalho De Conclusão De Curso Ii
+585	235	137	50	48	1	1	Mét. E Téc. De Pesq. Em Ciências Soc. E Rel. Int.
+586	144	152	50	57	1	1	Teoria Do Conhecimento
+588	42	19	60	43	1	1	Fundamentos De Matemática
+589	311	12	30	19	1	1	Educação Para Relações Étnicas Raciais E Para Os Direitos Humanos
+591	313	60	62	63	1	1	Cálculo 2a
+593	210	157	20	13	1	1	Bioestatística
+595	103	95	30	19	1	1	Trabalho De Conclusão De Curso I
+596	314	79	60	58	1	1	Computação E Sociedade
+597	235	137	50	38	1	1	Teoria Das Relações Internacionais Ii
+599	241	80	60	63	1	1	Imunologia Básica
+600	80	103	20	20	2	1	Virologia Em Saúde
+601	113	177	60	61	1	1	Ecologia Básica
+602	316	91	40	14	1	1	Políticas Educacionais
+603	153	87	20	3	1	1	Cálculo 3b
+606	12	156	35	40	1	1	Biofísica
+607	144	152	55	21	2	1	Tópicos De Filosofia Iii
+608	22	5	25	19	1	1	Fotografia
+609	109	41	48	49	1	1	Análise Das Demonstrações Contábeis
+611	317	24	35	23	1	1	Biofísica
+613	28	88	22	25	1	1	Saúde Coletiva I
+614	239	74	45	17	1	1	Banco De Dados
+615	117	93	50	40	1	1	Métodos Em Ecologia
+616	30	155	45	9	1	1	Políticas Educacionais No Brasil
+618	183	18	40	35	1	1	Didática De Geografia I
+621	45	83	40	38	1	1	Planejamento E Controle De Obras
+622	320	18	40	38	1	1	Organização Do Trabalho Científico
+623	198	13	50	41	1	1	Cálculo Diferencial
+625	156	40	50	55	1	1	Teoria Das Organizações
+627	322	145	15	5	1	1	Estágio Supervisionado I
+628	131	12	40	27	1	1	Mercado De Derivativos I
+629	230	103	30	28	1	1	Biotecnologia Aplicada À Parasitologia
+630	323	105	30	26	1	1	Salvaguarda Patrim. Ii - Cons Prev Segurança
+631	324	81	30	47	1	1	Economia Ambiental
+632	325	40	60	43	1	1	Cálculo 2b
+633	74	74	40	29	1	1	Engenharia De Sistemas
+634	129	103	42	36	1	1	Cálculo 1c
+636	132	157	25	18	2	1	Tópicos Em Biologia
+637	326	167	15	12	1	1	Atenção Integral À Saúde Da Mulher E Da Criança I
+638	327	164	35	14	1	1	Estágio Supervisionado Iii
+639	328	60	40	14	1	1	Segurança E Auditoria De Sistemas
+640	326	167	15	12	1	1	Atenção Integral À Saúde Da Mulher E Da Criança I
+642	139	166	40	60	1	1	Anatomia Vegetal
+645	1	81	60	52	1	1	Metodologia Da Pesquisa
+646	330	76	30	29	1	1	Introdução À Engenharia Química
+647	57	5	35	32	1	1	Ética E Legislação Em Rp E Comunicação
+648	107	53	5	3	2	1	Imunologia Clínica
+649	299	154	60	50	1	1	Geometria Analítica
+650	27	157	40	32	1	1	Sistemática De Criptógamos
+651	90	156	35	14	2	1	Ciência De Animais De Laboratório
+652	214	37	50	7	1	1	Geologia I
+653	331	41	48	32	1	1	Direito Trabalhista E Previdenciário
+655	131	12	30	37	1	1	Finanças I
+657	332	105	40	30	1	1	Comunicação Patrimonial Ii - Expografia
+659	222	146	25	13	1	1	Políticas Educacionais No Brasil
+660	224	18	43	30	1	1	Psicologia Da Educação I
+661	96	103	20	18	2	1	Introdução A Microbiologia Ambiental
+662	34	12	40	39	1	1	Economia Brasileira Ii
+664	333	133	45	41	1	1	Metodologia Científica E Redação Técnica
+665	134	137	50	40	1	1	Introdução Ao Direito
+668	115	77	27	39	1	1	Inferência I
+669	283	158	30	27	1	1	Ecologia De Populações
+670	274	156	60	57	1	1	Bioquímica Clínica
+671	279	43	60	42	1	1	Teorias E Métodos De Pesquisa Em Comunicação
+675	338	167	20	22	1	1	Método Clínico I
+676	339	86	40	29	1	1	Filosofia
+678	109	41	48	16	1	1	Controladoria
+679	340	40	50	28	1	1	Estatística Inferencial
+680	176	79	45	50	1	1	Redes De Computadores
+681	273	161	40	33	1	1	Bioquímica Ii
+683	207	5	30	22	1	1	Teoria Da Imagem
+684	341	35	40	32	2	1	Geopolítica E Geografia Política Ii
+685	51	110	40	29	3	1	Superhero Comic Books In Contemporary Society
+686	230	103	34	35	1	1	Genética
+687	202	19	37	23	1	1	Fundamentos Filosóficos E Sócio-Culturais Da Educação
+688	303	18	20	21	1	1	Cartografia I
+690	343	119	40	20	1	1	Lab. De Linguagens E Representações Culturais
+692	21	13	60	58	1	1	Geometria Plana
+693	51	110	30	29	1	1	Mídias Sociais
+694	208	91	50	53	1	1	Fundamentos Filosófico E Sócio-Histór. Da Educação
+695	345	41	48	46	1	1	Estatística
+697	300	130	35	16	1	1	Dosimetria
+700	346	24	69	61	1	1	Imunologia
+701	181	103	34	29	1	1	Fisiologia Humana
+702	144	152	50	32	1	1	Teoria Do Conhecimento
+703	168	158	38	38	1	1	Taxonomia E Ecologia De Fungos
+705	514	170	60	53	1	1	Sistemas De Controle
+707	348	77	25	17	1	1	Modelos De Regressão
+708	292	19	30	23	1	1	Estágio Supervisionado Iii
+709	103	95	40	19	1	1	Gestão De Ti Em Unidades De Informação
+711	227	137	50	35	1	1	Cooperação Internacional
+712	101	79	60	27	1	1	Projetos De Software
+713	55	142	15	10	1	1	Gestão E Organização Do Trabalho Pedagógico
+715	111	79	60	31	1	1	Engenharia De Sistemas De Informação
+716	137	88	7	6	1	1	Saúde Mental I
+717	68	88	6	5	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+718	349	119	40	8	1	1	Métodos Quantitativos
+720	292	19	35	39	1	1	Políticas Educacionais No Brasil
+721	350	91	25	19	1	1	Introdução À Língua Brasileira De Sinais - Libras
+724	206	41	48	31	1	1	Contabilidade Avançada 1
+725	168	158	35	40	2	1	Entomologia
+726	236	156	60	62	1	1	Micologia Humana
+727	351	60	40	42	1	1	Linguagens E Paradigmas De Programação
+730	141	161	21	22	1	1	Fisiologia Humana
+731	156	40	50	69	1	1	Pesquisa Em Administração
+733	168	158	18	13	2	1	Genética Da Conservação
+734	163	161	40	39	1	1	Psicologia Aplicada À Nutrição
+736	153	87	20	18	1	1	Química Dos Elementos
+737	33	95	40	36	1	1	Fontes De Informação
+738	353	74	45	48	1	1	Algoritmos E Estruturas De Dados 1
+739	137	88	14	15	1	1	Saúde Mental I
+740	354	37	50	28	1	1	Fundamentos De Astronomia
+741	215	166	50	51	1	1	Física Ii
+742	221	53	60	48	1	1	Química Orgânica Ii
+743	131	12	20	9	1	1	Monografia I
+745	355	87	45	46	2	1	Química Do Petróleo
+746	208	91	50	45	1	1	Cálculo 1b
+748	137	88	7	7	1	1	Saúde Mental I
+750	109	41	48	44	1	1	Contabilidade Avançada 1
+751	134	137	50	50	1	1	Teoria Política I
+753	113	177	68	58	1	1	Microbiologia Veterinária
+754	268	37	50	40	3	1	Teoria E Método Em Geografia
+755	133	5	30	24	1	1	Fundamentos De Administração
+756	241	80	60	66	1	1	Parasitologia Zootécnica
+757	68	88	6	4	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+758	236	156	60	62	1	1	Bacteriologia Humana
+760	113	177	60	64	1	1	Parasitologia Veterinária
+762	107	53	60	16	1	1	Virologia Humana
+763	236	156	31	33	1	1	Patologia Geral
+764	358	77	10	5	2	1	Trabalho De Conclusão De Curso I
+765	359	53	55	45	1	1	Química Geral
+766	348	77	20	23	1	1	Cálculo Numérico
+767	360	77	30	12	1	1	Redação E Expressão I
+768	144	152	50	33	1	1	Filosofia Moderna
+769	361	119	40	13	1	1	Métodos Qualitativos
+771	282	179	40	64	2	1	Antropologia Urbana
+772	244	72	42	24	1	1	Desenho I
+773	156	40	50	13	2	1	Saúde Do Trabalhador
+774	362	86	40	23	1	1	Sociologia I
+775	136	158	40	30	1	1	Fundamentos Filosóficos E Sócio-Históricos Da Educação
+776	63	179	40	25	2	1	Tópicos De Sociologia I
+777	363	157	15	15	3	1	Genética: Passado, Presente E Futuro
+779	197	167	14	15	1	1	Método Clínico Iii
+780	364	35	30	12	1	1	Geografia De Goiás
+781	198	13	50	35	1	1	Cálculo Integral
+782	63	179	40	20	2	1	Tópicos De Antropologia I
+783	97	19	60	42	1	1	Introdução À Teoria Dos Números
+784	156	40	50	9	2	1	Tópicos Especiais Em Administração Pública
+787	366	41	48	32	1	1	Contabilidade Introdutória I
+788	208	91	40	33	1	1	Psicologia Da Educação 1
+789	310	43	50	48	1	1	Trabalho De Conclusão De Curso I
+790	60	92	40	11	1	1	Algoritmos E Programação De Computadores
+791	55	142	15	14	1	1	Libras
+792	367	166	40	41	3	1	Genética
+793	368	12	50	32	1	1	Introdução Às Ciências Sociais
+794	17	178	60	46	1	1	Ciência Política 3
+795	156	40	50	29	1	1	Administração Da Produção E Operações
+797	369	20	15	7	1	1	Estágio Supervisionado Ii
+798	370	87	50	15	1	1	Processos Da Indústria Química
+799	132	157	10	15	2	1	Tópicos Em Biologia I
+801	371	79	60	33	1	1	Segurança Em Sistemas De Informação
+802	68	88	30	19	1	1	Grupos Em Saúde
+803	198	13	50	26	1	1	Fundamentos De Matemática
+805	99	155	55	31	1	1	Química Geral B
+806	36	60	45	27	1	1	Sistemas Gerenciadores De Banco De Dados
+808	150	95	50	51	1	1	Editoração E Planejamento Gráfico Visual
+809	372	73	50	35	1	1	Biologia E Zoologia
+810	330	76	60	1	1	1	Física 1
+811	73	182	55	45	1	1	Ciência Política 1
+812	5	76	30	24	1	1	Projetos De Reatores Químicos
+813	88	41	48	47	1	1	Instituições Do Direito Público E Privado
+814	56	155	57	78	1	1	Física I
+815	153	87	20	22	1	1	Química Dos Elementos
+816	207	5	30	25	1	1	Introdução Às Relações Públicas
+819	109	41	48	47	1	1	Contabilidade E Gestão Do Agronegócio
+820	325	40	60	53	1	1	Sociologia Das Organizações
+822	351	60	60	19	1	1	Engenharia De Software
+823	93	18	40	37	1	1	Geografia Agrária I
+824	94	154	60	86	1	1	Equações Diferenciais Ordinárias
+825	206	41	48	20	1	1	Controladoria
+826	165	158	40	42	1	1	Paleobiologia
+827	194	8	20	22	1	1	Química Analítica
+830	168	158	20	4	1	1	Taxonomia E Ecologia De Fungos
+831	51	110	24	22	1	1	Banco De Dados
+832	173	36	30	27	1	1	Fundamentos De Astronomia
+833	314	79	45	1	1	1	Introdução À Programação
+834	26	156	35	36	1	1	Biossegurança
+836	373	120	40	7	1	1	Laboratório De Prática De Ensino Ii
+840	227	137	45	29	2	1	Tópicos De História Das Relações Internacionais
+841	364	35	30	14	1	1	Teoria De Planejamento Geográfico
+842	375	158	35	19	1	1	Psicologia Da Educação Ii
+843	310	43	53	83	1	1	Planejamento De Campanha
+845	57	5	34	35	1	1	Gestão Estratégica
+846	137	88	23	22	1	1	Patologia Humana
+847	203	77	10	2	2	1	Estágio Ii
+848	259	12	45	47	1	1	Contabilidade Social
+849	326	167	15	11	1	1	Atenção Integral À Saúde Da Mulher E Da Criança I
+850	215	166	50	40	1	1	Química Analítica Teórica
+851	115	77	26	32	1	1	Probabilidade Ii
+853	377	120	40	21	1	1	Antropologia V
+854	378	60	40	31	3	1	Tópicos Avançados Em Programação Iv
+855	107	53	60	17	1	1	Parasitologia Clínica
+856	157	154	51	54	1	1	Eletromagnetismo I
+857	154	76	25	15	1	1	Bioquímica
+859	379	20	14	17	1	1	Estágio Supervisionado Ii
+860	107	53	60	27	1	1	Micologia Aplicada
+861	51	110	35	15	1	1	Metodologia Da Pesquisa Científica
+862	380	76	25	23	1	1	Introdução À Computação
+863	381	166	50	49	1	1	Química Geral
+864	137	88	7	8	1	1	Saúde Mental I
+865	252	5	50	22	2	1	Tópicos Contemporâneos: Gestão De Eventos
+866	137	88	25	25	1	1	Parasitologia Humana
+869	191	161	40	47	2	1	Plantas Medicinais E Fitoterápicos
+871	89	30	15	6	1	1	Núcleos Temáticos De Pesquisa Em Educação Física
+872	382	79	60	116	1	1	Matemática Discreta
+873	220	43	60	58	1	1	Teorias Da Comunicação I
+874	156	40	50	31	1	1	Finanças De Curto Prazo
+877	144	152	50	14	1	1	Filosofia Da Linguagem
+879	383	7	36	32	1	1	Fisiologia Humana
+880	292	19	30	14	1	1	Estágio Supervisionado Iii
+881	65	167	15	12	1	1	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva
+883	168	158	30	20	1	1	Biologia Evolutiva
+885	372	73	50	59	1	1	Química Geral
+886	202	19	40	34	1	1	Didática Da Matemática Iii
+887	384	156	21	25	3	1	Ética Em Pesquisa
+888	232	54	35	60	3	1	Tópicos Especiais Em Psicopatologia
+889	274	156	30	33	1	1	Patologia Geral
+891	88	41	48	45	1	1	Matemática Financeira Aplicada A Contabilidade
+892	302	74	40	41	1	1	Governança E Gestão De Serviços De Software
+893	385	5	51	53	1	1	Mídias Institucionais
+896	242	166	50	50	1	1	Bioquímica De Biomoléculas
+897	42	19	60	45	1	1	Linguagem E Matemática
+898	71	81	30	15	2	1	Tópicos Em Sensoriamento Remoto
+900	63	179	40	16	1	1	Trabalho Final De Curso 1
+901	195	103	34	18	1	1	Bioprocessos
+902	35	93	50	74	2	1	Bioindicadores
+905	387	155	45	36	1	1	Evolução Das Ideias Da Física
+908	388	168	40	7	1	1	Desenho Ii
+909	282	179	40	34	1	1	Estatística Aplicada Às Ciências Sociais 2
+913	389	4	40	45	1	1	Teoria E Métodos De Pesquisa Em Comunicação
+915	138	12	60	63	1	1	Álgebra Linear
+916	90	156	20	8	2	1	Tópicos Em Fisiologia
+918	107	53	60	42	1	1	Parasitologia
+920	391	60	40	39	1	1	Compiladores
+923	5	76	20	17	1	1	Introdução Aos Métodos Instrumentais De Análise
+924	202	19	15	13	1	1	Prática De Ensino Orientada
+925	197	167	15	15	1	1	Método Clínico Iii
+926	25	78	35	74	3	1	Noções Básicas Em Língua Bras. De Sinais (Libras)
+928	171	179	51	61	1	1	Métodos E Técnicas De Pesquisa Social 2
+929	381	166	50	49	1	1	Química Orgânica
+930	392	86	40	29	1	1	Ciência Política I
+931	215	166	50	40	1	1	Física I
+933	381	166	50	49	1	1	Cálculo 1b
+934	394	120	40	23	1	1	Sociologia V
+935	348	77	20	21	1	1	Processos Estocásticos
+936	395	74	40	15	1	1	Desenvolvimento De Software Para Persistência
+937	317	24	35	21	1	1	Biofísica
+938	396	105	50	16	2	1	Tópicos De Museologia Ii
+939	50	103	34	25	1	1	Genômica E Proteômica
+941	397	41	48	51	1	1	Estatística
+944	229	83	40	36	1	1	Cultura, Cidade E Arquitetura
+945	83	60	60	92	1	1	Fundamentos De Matemática Para Computação
+946	355	87	40	41	1	1	Química Ambiental
+947	398	157	40	22	1	1	Metodologia Científica E Filosofia Da Ciência
+948	41	40	60	45	1	1	Cálculo 1b
+951	292	19	40	49	1	1	Estatística
+952	346	24	68	58	1	1	Microbiologia
+953	151	75	25	15	1	1	Desenho Técnico Mecânico
+954	267	166	50	40	1	1	Cálculo 1b
+955	399	12	55	49	1	1	Cálculo 2b
+956	221	53	60	61	1	1	Química Analítica
+957	94	154	60	77	1	1	Probabilidade E Estatística
+958	400	133	45	30	1	1	Química Orgânica
+960	401	13	100	45	1	1	Equações Diferenciais Ordinárias I
+961	74	74	40	35	1	1	Modelagem De Software
+962	167	142	50	12	1	1	Introd. Às Ciências Da Natureza E Educaç. Do Campo
+963	31	35	10	11	2	1	Tópicos Em Geologia
+964	206	41	48	31	1	1	Contabilidade E Gestão Do Agronegócio
+966	82	93	20	10	1	1	Plantas Criptogâmicas
+967	82	93	25	18	1	1	Introdução À Bioestatística
+968	57	5	31	32	1	1	Produção De Texto Jornalístico I
+969	81	77	20	18	1	1	Controle Estatístico De Qualidade
+970	137	88	38	48	1	1	Parasitologia Humana
+971	107	53	15	7	1	1	Imunologia Básica
+972	188	142	15	10	1	1	Estágio De Docência Em Ciências Da Natureza No Ensino Fundamental Ou Eja I
+976	135	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos
+977	82	93	55	40	1	1	Estudo Da Ecologia
+978	36	60	40	40	1	1	Redes De Computadores 1
+979	277	133	60	43	1	1	Introdução À Física
+980	402	7	36	38	1	1	Bioquímica I
+981	42	19	60	30	1	1	Geometria Plana
+982	337	92	50	18	1	1	Estruturas De Dados
+984	320	18	40	36	1	1	Geografia E Sociedade
+985	156	40	50	28	1	1	Elaboração Do Projeto De Tcc (Tcc I)
+986	206	41	48	40	1	1	Contabilidade Tributária
+987	82	93	10	1	1	1	Plantas Criptogâmicas
+988	334	37	50	61	1	1	Geografia Urbana
+989	403	120	40	9	1	1	Estágio Supervisionado I
+991	9	60	50	15	1	1	Algoritmos E Estruturas De Dados 2
+992	56	155	45	20	1	1	Psicologia Da Educação Ii
+995	242	166	50	49	1	1	Física Ii
+996	405	51	50		1	1	Psicologia Das Organizações
+997	186	157	48	31	1	1	Zoologia I
+998	16	66	50	28	1	1	Resistência Dos Materiais 2
+999	333	133	20	21	1	1	Circuitos Elétricos 1
+1001	144	152	50	50	1	1	Tópicos De Ética
+1002	267	166	50	38	1	1	Biologia E Zoologia
+1003	28	88	50	30	1	1	Saúde Coletiva I
+1004	406	86	40	43	1	1	Antropologia I
+1005	81	77	10	4	2	1	Estágio I
+1008	407	179	20	9	1	1	Trabalho Final De Curso 1
+1009	183	18	40	18	1	1	Geografia De Goiás
+1012	409	5	55	62	1	1	Mídias Audiovisuais
+1013	410	60	40	19	1	1	Tópicos 1
+1014	239	74	40	19	1	1	Algoritmos E Estruturas De Dados 2
+1015	68	88	18	13	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+1017	387	155	20	11	1	1	Informática No Ensino Da Física Ii
+1020	156	40	50	44	1	1	Contabilidade Gerencial
+1027	263	77	50	41	1	1	Introdução A Probabilidade
+1028	154	76	30	35	1	1	Termodinâmica Aplicada Ii
+1029	412	78	12	16	1	1	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii
+1030	88	41	48	41	1	1	Fundamentos Da Microeconomia
+1032	36	60	40	24	1	1	Banco De Dados
+1033	413	169	55	48	1	1	Química Geral B
+1034	82	93	50	42	1	1	Evolução E Diversificação Das Plantas
+1035	57	5	60	48	2	1	Psicologia Organizacional
+1036	88	41	48	42	1	1	Introdução À Teoria Da Contabilidade
+1038	96	103	34	28	1	1	Biossegurança
+1040	415	153	20	6	1	1	Psiquiatria Clínica E Psicopatologia 1
+1041	277	133	60	43	1	1	Cálculo 1a
+1043	5	76	30	22	1	1	Operações Unitárias 3
+1044	12	156	63	65	1	1	Introdução Às Análises Clínicas
+1045	107	53	10	1	1	1	Parasitologia
+1048	149	35	30	22	1	1	Organização Do Trabalho Científico
+1049	160	167	60	57	1	1	Determinantes Biológicos No Processo Saúde - Doença I
+1050	371	79	60	41	1	1	Empreendedorismo
+1051	417	40	50	32	1	1	Filosofia E Ética Na Administração
+1052	51	110	50	46	1	1	Introdução À Ciência Da Informação
+1053	418	4	55	43	1	1	História Do Jornalismo
+1054	269	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva
+1057	268	37	50	68	1	1	Geomorfologia I
+1058	420	130	30	20	1	1	Biologia Celular
+1060	277	133	45	26	1	1	Física E Meio Ambiente
+1062	292	19	40	33	1	1	História Da Matemática
+1063	282	179	45	47	1	1	Gestão Pública Contemporânea
+1064	149	35	30	24	1	1	Geografia Da População I
+1065	144	152	65	50	1	1	Ética
+1067	421	86	40	31	1	1	História I
+1068	389	4	20	67	2	1	História Do Cinema
+1070	422	7	36	35	1	1	Bioquímica I
+1071	409	5	45	61	2	1	Tópicos Contemporâneos: Comunicação Organizacional
+1072	109	41	48	48	1	1	Contabilidade Intermediária 1
+1073	47	18	32	32	1	1	Cartografia I
+1074	165	158	30	33	1	1	Biologia Molecular
+1075	338	167	20	21	1	1	Método Clínico I
+1076	163	161	47	51	1	1	Patologia Geral
+1077	423	170	25	18	1	1	Desenho Básico
+1078	56	155	55	82	1	1	Cálculo 2a
+1080	177	87	44	34	1	1	Química Analítica Qualitativa
+1086	302	74	40	33	1	1	Arquitetura De Software
+1087	82	93	25	19	1	1	Evolução E Diversificação Das Plantas
+1088	225	158	30	30	1	1	Zoologia Iii - Invertebrados Ii
+1090	425	103	25	43	3	1	Formei E Agora? Empregabilidade E Mundo Do Trabalho
+1092	68	88	24	17	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+1093	274	156	30	38	1	1	Bioinformática
+1095	131	12	40	25	1	1	Economia Internacional
+1096	117	93	25	15	1	1	Ecofisiologia Vegetal
+1098	202	19	35	43	1	1	Fundamentos Filosóficos E Sócio-Culturais Da Educação
+1100	426	179	40	44	2	1	Tópicos De Sociologia I
+1103	427	73	25	29	1	1	Introdução À Computação
+1104	107	53	40	33	1	1	Microbiologia Geral
+1105	428	166	40	52	1	1	Fisiologia Do Desenvolvimento Vegetal
+1106	81	77	20	17	1	1	Análise De Dados Categorizados
+1107	168	158	40	11	1	1	Taxonomia E Ecologia De Fungos
+1109	268	37	50	55	3	1	Pedologia
+1111	55	142	28	29	3	1	Divulgação Científica E Espaços Não Formais De Ensino
+1112	144	152	50	35	2	1	Tópicos De Filosofia Ii
+1115	73	182	55	38	1	1	Introdução À Metodologia Científica
+1118	73	182	55	39	1	1	Sociologia 1
+1119	292	19	37	11	1	1	Políticas Educacionais No Brasil
+1120	370	87	30	31	1	1	Introdução Aos Fenômenos De Transporte
+1123	49	166	40	56	1	1	Fisiologia Do Metabolismo Vegetal
+1124	132	157	6	9	2	1	Farmacologia Experimental
+1125	274	156	60	48	1	1	Farmacologia I
+1126	225	158	40	41	1	1	Zoologia Iii - Invertebrados Ii
+1127	430	60	60	15	1	1	Pesquisa Operacional
+1128	206	41	48	11	1	1	Auditoria Das Demonstrações Contábeis
+1130	431	120	40	6	1	1	Didática E Prática De Ensino Em Ciências Sociais Ii
+1131	6	178	35	17	1	1	Estágio Supervisionado Iii:Escola E Diversidade
+1132	206	41	48	13	2	1	Tópicos Em Contabilidade I
+1136	195	103	30	23	1	1	Gestão E Empreendedorismo Em Biotecnologia
+1137	77	58	40	27	1	1	Ciência Política 1
+1139	330	76	30	27	1	1	Direito E Cidadania
+1143	306	76	50	44	1	1	Gestão Da Produção E Da Qualidade
+1144	259	12	47	53	1	1	Estatística Econômica E Introdução À Econometria
+1145	63	179	40	15	1	1	Trabalho Final De Curso 2
+1146	235	137	50	36	1	1	Instituições Internacionais
+1148	273	161	40	37	1	1	Promoção Da Saúde Ii
+1150	163	161	40	44	1	1	Epidemiologia
+1151	14	36	30	18	1	1	Diagnóstico E Manejo De Bacias Hidrográficas
+1152	183	18	30	27	1	1	Didática De Geografia I
+1153	144	152	50	26	1	1	Tópicos De Ética
+1154	144	152	45	20	2	1	Tópicos De Filosofia Antiga
+1156	109	41	48	37	1	1	Auditoria Das Demonstrações Contábeis
+1157	215	166	40	69	1	1	Introdução À Computação
+1159	328	60	40	32	1	1	Multimídia
+1162	329	66	50	31	1	1	Química Geral Teórica
+1163	273	161	45	31	1	1	Microbiologia Geral E De Alimentos
+1164	137	88	21	19	1	1	Saúde Mental I
+1165	387	155	55	18	1	1	Introdução À Física Nuclear E De Partículas
+1166	254	105	50	32	1	1	Antropologia E Patrimônio
+1167	252	5	50	33	1	1	Linguagem Publicitária
+1170	432	77	25	27	1	1	Introdução A Computação
+1171	292	19	40	40	1	1	Fundamentos De Análise
+1172	51	110	60	1	1	1	Leitura E Produção Textual
+1173	433	170	45	48	1	1	Métodos Matemáticos Lineares
+1174	348	77	20	11	1	1	Amostragem I
+1175	434	79	35	12	1	1	Programação Orientada A Objetos
+1177	359	53	27	28	1	1	Semiologia E Farmacoterapia
+1179	314	79	60	67	1	1	Fundamentos De Matemática Para Computação
+1181	436	83	25	10	3	1	Mentoring Para Arquitetura E Urbanismo
+1185	161	87	40	33	1	1	Fundamentos Da Administração
+1188	8	161	50	45	1	1	Química Orgânica Teórica
+1189	49	166	40	19	1	1	Genética
+1190	266	167	57	58	1	1	Introdução Ao Cuidar I
+1191	438	83	40	41	1	1	História Da Arquitetura Ii
+1193	420	130	30	23	1	1	Fisiologia Humana
+1194	439	117	30	24	1	1	Processos E Ferramentas Em Design
+1195	156	40	50	25	2	1	Pesquisa Qualitativa
+1196	370	87	20	18	1	1	Físico-Química 4
+1198	33	95	40	38	1	1	Indexação E Resumos
+1199	35	93	45	41	1	1	Políticas Públicas E Gestão Ambiental
+1201	387	155	55	33	1	1	Termodinâmica
+1202	144	152	65	47	1	1	Introdução À Lógica
+1208	1	81	60	56	1	1	Cálculo 1c
+1211	259	12	40	24	1	1	Macroeconomia Ii
+1214	48	8	50	52	1	1	Introdução Aos Métodos Instrumentais De Análise
+1215	425	103	30	36	3	1	Micoses Oportunísticas
+1216	156	40	50	35	2	1	Ação Social
+1218	165	158	40	31	1	1	Fisiologia Vegetal
+1219	63	179	20	27	2	1	Tópicos De Sociologia I
+1220	401	13	20	20	1	1	Análise Real I
+1221	245	20	50	33	1	1	Física I
+1223	161	87	60	52	1	1	Introdução À Economia
+1224	367	166	40	44	1	1	Metabolismo Celular
+1225	96	103	20	13	1	1	Bases Da Biotecnologia
+1226	372	73	60	61	1	1	Cálculo 1b
+1227	292	19	50	38	1	1	História Da Matemática
+1228	143	137	26	29	1	1	Laboratório De Relações Internacionais Ii
+1231	410	60	40	38	1	1	Computação Gráfica
+1235	12	156	35	37	1	1	Bioquímica I
+1237	203	77	20	18	2	1	Bioestatística
+1238	107	53	10	5	2	1	Bacteriologia
+1239	441	120	20	15	1	1	Trabalho De Conclusão De Curso I
+1241	286	170	25	22	1	1	Desenho
+1242	381	166	50	49	1	1	Biologia E Zoologia
+1245	43	41	48	38	1	1	Contabilidade Introdutória I
+1247	144	152	50	35	2	1	Tópicos De Filosofia Iii
+1248	430	60	50	23	1	1	Teoria Dos Grafos
+1249	398	157	40	36	1	1	Morfologia E Sistemática De Espermatófitas
+1250	409	5	35	32	2	1	Tópicos Contemporâneos: Mídias Digitais
+1251	375	158	25	29	1	1	Introdução À Língua Brasileira De Sinais - Libras
+1252	60	92	52	36	1	1	Cálculos Em Química
+1253	170	60	60	17	1	1	Análise E Projeto De Algoritmos
+1254	21	13	60	56	1	1	Linguagem E Matemática
+1256	41	40	60	44	1	1	Psicologia Das Organizações
+1257	27	157	44	40	1	1	Ecologia De Populações
+1258	442	81	31	34	1	1	Análise Da Paisagem
+1259	202	19	15	15	1	1	Prática De Ensino Orientada
+1260	144	152	60	58	2	1	Tópicos De Filosofia Política
+1261	309	66	50	16	1	1	Obras De Terra
+1262	227	137	25	20	1	1	Laboratório De Relações Internacionais Iv
+1265	188	142	15	8	1	1	Ciências Da Natureza: Física Iii
+1266	137	88	7	6	1	1	Saúde Mental I
+1267	224	18	43	31	1	1	Psicologia Da Educação I
+1270	107	53	14	17	1	1	Patologia Processos Gerais
+1271	99	155	55	44	1	1	Geometria Analítica
+1272	443	105	30	8	1	1	Seminários De Pesquisas Em Museologia
+1273	272	120	40	20	1	1	Antropologia Iii
+1274	141	161	40	48	1	1	Estudo Experimental Dos Alimentos
+1275	282	179	42	46	1	1	Sociologia Latino-Americana
+1276	425	103	20	20	3	1	Seminários Em Imunologia E Virologia
+1277	32	81	10	25	2	1	Geopolítica Das Águas
+1278	106	18	30	32	1	1	Biogeografia
+1280	136	158	50	31	1	1	Química Geral Teórica
+1281	168	158	20	8	2	1	Tópicos Em Biologia
+1282	154	76	25	16	1	1	Cálculo Numérico
+1283	144	152	45	38	2	1	Tópicos De Filosofia I
+1284	137	88	7	7	1	1	Saúde Mental I
+1285	137	88	22	27	1	1	Patologia Humana
+1287	372	73	25	12	1	1	Morfologia E Taxonomia Vegetal
+1288	423	170	25	20	1	1	Desenho Básico
+1290	120	87	50	35	1	1	Bioquímica
+1291	364	35	40	33	1	1	Biogeografia
+1292	12	156	15	21	2	1	Métodos Analíticos Em Biomedicina
+1293	158	83	40	34	1	1	Legislação E Exercício Profissional
+1294	267	166	50	40	1	1	Química Orgânica
+1295	220	43	60	52	2	1	Comportamento Do Consumidor
+1296	61	180	11	11	1	1	Tutorial Em Saúde Iii
+1297	72	180	9	9	1	1	Tutorial Em Saúde Ii
+1298	193	35	30	11	1	1	Trabalho De Conclusão De Curso I
+1299	186	157	48	36	1	1	Biologia Celular
+1300	251	167	20	24	1	1	Corpo Humano Saudável I
+1302	515	54	35	52	3	1	A Morte E O Morrer Em Debate: Temas Atuais
+1303	446	40	50	28	1	1	Ciência Política
+1304	447	69	45	47	1	1	Sociologia
+1305	206	41	48	37	1	1	Pesquisa Aplicada A Contabilidade
+1306	237	74	40	10	1	1	Integração 1
+1307	97	19	110	64	1	1	Cálculo De Funções De Várias Variáveis
+1308	82	93	55	40	1	1	Fundamentos De Sistemática Biológica
+1309	123	154	45	47	2	1	Lasers  Princípios E Aplicações Biomédicas
+1311	27	157	40	43	1	1	Cálculo 1c
+1312	210	157	20	17	1	1	Bioestatística
+1313	184	13	20	18	1	1	Topologia
+1314	144	152	45	9	2	1	Lógica Ii
+1318	187	93	50	54	1	1	Biologia Da Conservação
+1319	144	152	50	22	1	1	Tópicos De Ontologia E Metafísica
+1320	330	76	30	1	1	1	Química Geral B
+1323	449	76	30	26	2	1	Combustíveis E Energia 1
+1324	51	110	50	43	1	1	Lógica
+1326	144	152	50	43	1	1	Filosofia Moderna I
+1328	225	158	32	38	1	1	Bioquímica I
+1329	168	158	20	7	1	1	Taxonomia E Ecologia De Fungos
+1331	118	167	20	22	1	1	Corpo Humano Saudável I
+1332	379	20	50	14	1	1	Políticas Educacionais No Brasil
+1333	93	18	60	63	1	1	Teoria E Metodologia Da Geografia I
+1334	202	19	40	43	1	1	Equações Diferenciais Ordinárias I
+1336	143	137	25	14	1	1	Laboratório De Relações Internacionais Ii
+1338	167	142	50	12	1	1	Realidade Brasileira Do Campo
+1340	263	77	25	20	1	1	Estatística I
+1341	29	157	30	27	1	1	Trabalho De Conclusão De Curso I
+1342	34	12	50	50	1	1	Economia E Energia
+1346	326	167	15	10	1	1	Atenção Integral À Saúde Da Mulher E Da Criança I
+1347	34	12	45	18	1	1	Microeconomia I
+1348	410	60	45	23	1	1	Sistemas Distribuídos
+1349	22	5	30	27	1	1	Produção De Texto Jornalístico I
+1350	152	79	60	21	1	1	Engenharia De Software
+1351	452	105	40	19	1	1	Espaços Museais E Arquitetura De Museus
+1352	123	154	45	30	1	1	Introdução À Física Nuclear E De Partículas
+1353	98	161	40	26	1	1	Marketing Em Alimentação E Nutrição
+1355	152	79	23	22	1	1	Sistemas Operacionais
+1356	453	119	40	16	1	1	Estatística Aplicada Às Ciências Sociais
+1359	454	120	40	25	1	1	Ciência Política V
+1362	171	179	40	27	1	1	Antropologia Da Sociedade Brasileira
+1367	176	79	50	11	1	1	Pesquisa Operacional
+1369	457	36	30	23	1	1	Hidrologia
+1370	117	93	25	31	1	1	Ecofisiologia Vegetal
+1373	156	40	50	47	1	1	Empreendedorismo Ii
+1376	206	41	40	30	1	1	Prática E Estágio Contábil I
+1378	458	120	40	13	1	1	Laboratório De Prática De Ensino I
+1379	154	76	30	33	1	1	Operações Unitárias 1
+1380	68	88	45	7	1	1	Trabalho De Conclusão De Curso Iii
+1381	153	87	50	51	1	1	Cálculo 3a
+1384	299	154	60	54	1	1	Cálculo 1a
+1385	145	133	45	7	1	1	Fenômenos De Transporte Para Engenharia Física
+1387	442	81	30	25	1	1	Análise De Bacias Hidrográficas
+1389	459	130	30	27	1	1	Anatomia Humana
+1390	302	74	40	36	1	1	Experiência Do Usuário De Software
+1391	131	12	45	39	1	1	Contabilidade Social
+1392	117	93	50	48	1	1	Ecologia De Ecossistemas
+1393	111	79	60	35	1	1	Algoritmos E Estruturas De Dados 2
+1394	150	95	50	52	1	1	Usos E Usuários Da Informação
+1395	165	158	30	32	1	1	Genética
+1396	332	105	40	34	1	1	Museologia Ii
+1397	381	166	40	40	1	1	Morfologia E Taxonomia Vegetal
+1400	68	88	45	42	1	1	Trabalho De Conclusão De Curso I
+1401	144	152	65	51	1	1	Ética
+1402	93	18	41	43	1	1	Teoria E Metodologia Da Geografia I
+1403	460	8	50	30	1	1	Cálculo Dif. E Integral E Geometria Analítica Iii
+1405	43	41	48	39	1	1	Introdução À Teoria Da Contabilidade
+1406	302	74	40	29	1	1	Software Concorrente E Distribuído
+1407	156	40	50	69	1	1	Administração Pública, Estado E Sociedade
+1409	156	40	50	58	1	1	Gestão De Pessoas I
+1410	351	60	45	27	1	1	Linguagens Formais E Autômatos
+1411	36	60	40	37	1	1	Engenharia De Requisitos
+1412	310	43	50	2	1	1	Trabalho De Conclusão De Curso Ii
+1413	275	18	40	25	2	1	Formação Do Território Brasileiro
+1414	313	60	60	42	1	1	Lógica Matemática
+1415	42	19	60	42	1	1	Fundamentos De Matemática
+1417	144	152	65	50	1	1	Filosofia Antiga
+1418	72	180	9	8	1	1	Tutorial Em Saúde Ii
+1419	136	158	35	34	1	1	Física Aplicada À Biologia
+1420	389	4	50	36	2	1	Jornalismo Especializado
+1421	10	142	15	9	1	1	Ciências Da Natureza - Fisica I
+1423	107	53	45	46	1	1	Patologia Geral
+1424	461	77	15	12	1	1	Probabilidade I
+1425	142	74	60	53	1	1	Fundamentos De Matemática Para Computação
+1426	177	87	35	45	1	1	Álgebra Linear
+1427	10	142	15	7	1	1	Ciências Da Natureza - Biologia Ii
+1428	276	158	40	24	1	1	Psicologia Da Educação Ii
+1430	462	179	40	38	2	1	Tópicos De Sociologia I
+1432	463	93	45	46	1	1	Análise De Bacias Hidrográficas
+1441	93	18	60	72	1	1	Geografia Agrária I
+1442	168	158	35	13	2	1	Educação Em Saúde
+1444	29	157	30	9	1	1	Trabalho De Conclusão De Curso Ii
+1446	464	19	60	8	1	1	Cálculo Integral
+1447	428	166	50	57	1	1	Bioquímica De Biomoléculas
+1448	107	53	18	6	1	1	Bacteriologia Humana
+1449	83	60	60	50	1	1	Computação E Sociedade
+1450	305	79	45	22	2	1	Sistemas De Apoio À Decisão
+1451	427	73	40	38	1	1	Bioquímica De Biomoléculas
+1452	194	8	68	80	1	1	Microbiologia Básica
+1454	156	40	50	34	1	1	Gestão De Pessoas Ii
+1456	466	54	20	24	3	1	Gestalt E Grupos
+1458	13	43	60	56	1	1	Iniciação Acadêmica  Práticas De Pesquisa
+1459	8	161	44	38	3	1	Fundamentos Teórico-Práticos Do Sus
+1460	117	93	50	46	1	1	Ecofisiologia Vegetal
+1461	283	158	15	11	1	1	Estágio Curricular Obrigatório I
+1463	266	167	15	16	1	1	Método Clínico Iii
+1466	372	73	25	30	1	1	Morfologia E Taxonomia Vegetal
+1467	156	40	50	35	1	1	Marketing I
+1468	282	179	50	38	1	1	Avaliação De Políticas Públicas
+1469	234	79	50	22	1	1	Auditoria De Sistemas
+1470	99	155	45	27	1	1	Fundamentos Filosóficos E Sócio-Hist. Da Educação
+1471	225	158	40	33	1	1	Biofísica
+1472	137	88	28	27	1	1	Saúde Mental I
+1474	56	155	45	19	1	1	Psicologia Da Educação Ii
+1475	372	73	50	40	1	1	Física Ii
+1477	156	40	55	54	1	1	Responsabilidade Socioambiental Corporativa
+1479	120	87	40	24	1	1	Química Inorgânica
+1480	467	74	40	39	1	1	Projeto De Software
+1482	77	58	40	32	1	1	Antropologia 1
+1483	116	18	30	22	1	1	Metodologia De Ensino De Geografia I
+1485	310	43	50	1	2	1	Introdução À Ciência Política
+1486	351	60	50	8	1	1	Sistemas Operacionais
+1487	156	40	61	67	1	1	Matemática Financeira
+1489	469	78	10	10	1	1	Trabalho De Conclusão De Curso Ii
+1490	107	53	45	44	1	1	Epidemiologia
+1491	60	92	52	39	1	1	Química Geral
+1493	409	5	51	55	1	1	Rp Especializada I
+1494	13	43	60	57	1	1	Administração
+1496	51	110	55	44	2	1	Tópicos Em Gestão Da Informação I
+1497	322	145	15	5	1	1	Pesquisa Histórica Ii
+1498	470	93	30	25	1	1	Ecologia Comportamental
+1500	273	161	40	36	1	1	Imunologia Básica
+1501	254	105	50	35	1	1	História Dos Museus
+1502	161	87	50	49	1	1	Fundamentos De Higiene E Segurança Do Trabalho
+1506	472	12	30	15	1	1	Elaboração E Análise De Projetos
+1507	139	166	50	71	1	1	Física I
+1509	449	76	30	9	2	1	Controle Digital De Processos
+1510	79	155	54	72	1	1	Mecânica Clássica I
+1511	252	5	35	27	2	1	Tópicos Contemporâneos: Mídias Digitais
+1513	30	155	55	68	1	1	Física Iii
+1514	473	120	40	7	1	1	Métodos E Técnicas De Pesquisa Social Ii
+1515	184	13	50	41	1	1	Estatística
+1516	446	40	50	42	1	1	Direito Empresarial
+1517	474	91	40	29	1	1	Química Ambiental
+1519	380	76	50	51	1	1	Física 3
+1522	144	152	50	39	1	1	Tópicos De Ontologia E Metafísica
+1523	109	41	48	48	1	1	Sistemas De Informações Contábeis
+1524	157	154	50	52	1	1	Física Iv
+1525	275	18	30	23	1	1	Trabalho De Conclusão De Curso I
+1526	476	12	55	41	1	1	Cálculo 2b
+1528	115	77	20	20	1	1	Cálculo Iii
+1529	340	40	50	54	1	1	Fundamentos Da Macroeconomia
+1530	198	13	50	23	1	1	Linguagem E Matemática
+1531	364	35	30	7	1	1	Prática De Campo Em Geografia
+1533	368	12	60	56	1	1	Cálculo 1b
+1534	340	40	50	54	1	1	Direito Tributário
+1538	186	157	50	35	1	1	Química Geral Teórica
+1539	224	18	40	39	1	1	Fundamentos Filosóficos E Sócio-Históricos Da Educ
+1540	158	83	40	28	1	1	Teorias Da Arquitetura
+1542	208	91	40	13	1	1	Fundamentos Filosófico E Sócio-Histór. Da Educação
+1544	144	152	65	49	1	1	Lógica
+1545	34	12	40	35	1	1	Economia Brasileira Ii
+1546	34	12	30	16	1	1	Teoria Dos Jogos
+1549	82	93	55	41	1	1	Ecologia Comportamental
+1550	477	120	20	7	1	1	Trabalho De Conclusão De Curso Ii
+1551	418	4	60	42	1	1	Língua Portuguesa
+1552	478	53	55	49	1	1	Físico-Química
+1553	77	58	40	28	1	1	Introdução À Metodologia Científica
+1554	194	8	15	25	1	1	Físico-Química
+1558	28	88	7	1	1	1	Saúde Coletiva I
+1559	283	158	31	32	1	1	Anatomia Vegetal
+1561	161	87	50	50	1	1	Química Fundamental
+1564	479	53	50	43	1	1	Toxicologia Geral
+1565	99	155	45	34	1	1	Fundamentos Filosóficos E Sócio-Hist. Da Educação
+1566	165	158	30	31	1	1	Bioestatística
+1567	97	19	60	36	1	1	Didática Da Matemática I
+1568	212	12	40	10	1	1	Demografia Econômica
+1570	184	13	27	40	2	1	Tópicos Em Matemática
+1571	423	170	55	42	1	1	Química Geral B
+1572	259	12	30	28	1	1	Finanças I
+1574	480	91	50	85	1	1	Cálculo 2b
+1575	51	110	35	44	1	1	Mercadologia
+1576	359	53	20	17	1	1	Farmácia Clínica
+1577	328	60	50	16	1	1	Empreendedorismo
+1578	481	7	7	6	1	1	Farmacologia
+1579	482	120	40	6	1	1	Estágio Supervisionado Iii
+1580	144	152	65	55	1	1	Filosofia Antiga I
+1583	246	168	60	50	1	1	Química Geral B
+1584	150	95	50	48	1	1	Representação Descritiva I
+1585	10	142	15	8	1	1	Ciências Da Natureza - Química I
+1586	199	104	30		1	1	Bioensaio
+1588	355	87	28	13	1	1	Engenharia Bioquímica
+1589	82	93	55	40	1	1	Metodologia Científica E Filosofia Da Ciência
+1590	202	19	15	11	1	1	Prática De Ensino Orientada
+1592	21	13	60	57	1	1	Fundamentos De Matemática
+1594	42	19	60	37	1	1	Geometria Plana
+1596	253	167	60	59	1	1	Determinantes Biológicos No Processo Saúde - Doença I
+1597	156	40	50	41	1	1	Finanças De Longo Prazo
+1598	130	7	61	65	1	1	Imunologia
+1599	267	166	40	33	1	1	Morfologia E Taxonomia Vegetal
+1600	485	156	40	32	2	1	Radiobiologia
+1601	206	41	48	37	1	1	Contabilidade Intermediária 1
+1603	133	5	30	30	1	1	Teoria Da Imagem
+1604	29	157	40	38	1	1	Paleobiologia
+1606	486	120	40	20	1	1	Mét. E Téc. De Pesq Social I - Metodologia Teórica
+1607	210	157	40	33	1	1	Biologia Parasitária
+1608	430	60	40	34	1	1	Programação Orientada A Objetos
+1609	109	41	48	44	2	1	Tópicos Em Contabilidade I
+1610	487	69	50	30	2	1	Gestão De Projetos
+1614	141	161	41	41	1	1	Sociologia
+1615	144	152	50	28	2	1	Tópicos De Filosofia Política
+1616	109	41	40	43	1	1	Prática E Estágio Contábil I
+1617	488	18	40	53	2	1	Tópicos Em Geografia Humana
+1618	489	120	40	17	1	1	Sociologia Iii
+1619	68	88	6	3	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+1622	282	179	48	69	2	1	Sociologia Da Violência E Do Conflito
+1623	84	156	60	70	1	1	Parasitologia Básica
+1624	132	157	20	24	2	1	Tópicos Em Biologia I
+1625	206	41	48	29	1	1	Contabilidade Governamental Ii
+1628	111	79	47	54	1	1	Banco De Dados
+1629	98	161	40	28	1	1	Planejamento De Unidades De Alimentação E Nutrição
+1630	84	156	30	35	1	1	Biologia Molecular
+1631	367	166	40	72	1	1	Fisiologia Do Metabolismo Vegetal
+1632	145	133	45	46	1	1	Administração
+1633	199	104	20	27	3	1	Soberania Alimentar
+1634	384	156	30	3	3	1	Metodologia Qualitativa Em Saúde - Procedimentos Do Trabalho De Campo
+1635	263	77	25	18	1	1	Estatística I
+1636	30	155	20	9	1	1	Estágio I
+1637	144	152	55	45	1	1	Filosofia Da Linguagem
+1640	198	13	50	38	1	1	Geometria Analítica
+1642	432	77	25	20	1	1	Introdução A Computação
+1643	171	179	45	40	1	1	Ciência Política 3
+1644	156	40	50	24	2	1	Inovação E Marketing De Novos Produtos
+1645	288	81	31	44	1	1	Introdução À Climatologia
+1647	115	77	25	42	1	1	Estatística Computacional I
+1648	73	182	55	39	1	1	Antropologia 1
+1649	241	80	45	65	1	1	Microbiologia Zootécnica
+1650	4	69	50	62	1	1	Controle Estatístico De Processo
+1651	253	167	60	59	1	1	Saúde, Família E Comunidade Iii
+1652	490	18	22	23	2	1	Climatologia Ii
+1653	42	19	60	34	1	1	Cálculo Diferencial
+1654	65	167	15	14	1	1	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil
+1655	183	18	25	26	1	1	Estágio Supervisionado Em Geografia I
+1656	332	105	40	29	1	1	Teorias Do Objeto E Estudos De Cultura Material
+1659	132	157	10	8	2	1	Tópicos Em Genética
+1660	206	41	48	42	1	1	Organização, Sistemas E Métodos
+1661	189	161	40	37	1	1	Farmacologia Aplicada À Nutrição
+1662	491	26	60	49	1	1	Monografia Jurídica I (Projeto)
+1663	156	40	50	30	1	1	Negócios Internacionais
+1665	77	58	40	37	1	1	Ciência Política 1
+1666	164	120	40	23	1	1	Ciência Política Iii
+1667	156	40	50	34	1	1	Marketing Ii
+1668	359	53	55	56	1	1	Química Orgânica
+1669	226	133	45	10	1	1	Desenvolvimento De Projeto
+1671	492	53	30	22	1	1	Farmacologia Ii
+1672	389	4	50	48	1	1	Assessoria E Consultoria Em Comunicação
+1674	206	41	48	22	1	1	Contabilidade De Seguros E Previdência
+1675	131	12	45	32	1	1	Estatística Econômica E Introdução À Econometria
+1677	25	78	10	12	1	1	Trabalho De Conclusão De Curso I
+1678	157	154	50	28	1	1	Mecânica Clássica Ii
+1679	5	76	25	14	1	1	Administração Da Produção E Operações
+1680	21	13	60	54	1	1	Cálculo Diferencial
+1681	109	41	48	24	1	1	Contabilidade De Seguros E Previdência
+1684	220	43	60	64	1	1	Sociologia
+1686	493	83	40	43	2	1	Tópicos Especiais Em Teoria E Estética Da Arquitetura E Da Arte
+1687	227	137	40	13	1	1	Trabalho De Conclusão De Curso 2
+1689	167	142	50	13	1	1	Matemática Para Ciências Da Natureza I
+1690	34	12	40	24	1	1	Organização Industrial
+1691	171	179	45	41	1	1	Antropologia 3
+1692	239	74	60	57	1	1	Engenharia De Software
+1693	102	40	50	51	1	1	Estatística Descritiva E Probabilidade
+1694	494	83	40	31	1	1	Sistemas Estruturais Na Arquitetura Ii
+1697	41	40	60	44	1	1	Fundamentos De Contabilidade
+1698	191	161	40	21	1	1	Gestão De Unidades De Alimentação E Nutrição
+1699	275	18	40	23	1	1	Estágio Supervisionado Em Geografia Iii
+1700	279	43	50	46	2	1	Seminários Temáticos Em Comunicação
+1701	277	133	49	49	1	1	Introdução À Computação
+1702	68	88	18	14	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+1704	496	41	48	16	2	1	Tópicos Em Contabilidade I
+1707	20	8	60	68	1	1	Geometria Analítica
+1708	34	12	60	47	1	1	Economia Política
+1712	499	189	40	39	1	1	Lógica Matemática
+1714	500	188	25	15	1	1	Química Geral
+1717	109	41	24	32	2	1	Tópicos Em Contabilidade I
+1722	34	12	50	39	1	1	Fundamentos De Contabilidade
+1723	500	188	25	15	1	1	Introdução À Química Industrial
+1724	229	83	20	15	1	1	Espaço Arquitetônico: Percepção E Representação
+1726	34	12	50	46	1	1	Fundamentos De Contabilidade
+1727	166	167	10	3	1	1	Determinantes Biológicos No Processo Saúde - Doença I
+1730	20	8	60	49	1	1	Física I
+1732	109	41	48	13	2	1	Tópicos Em Contabilidade Ii
+1736	69	79	50	16	3	1	Comunicação Organizacional
+1737	206	41	48	3	2	1	Tópicos Em Contabilidade Ii
+1738	109	41	48	4	2	1	Tópicos Em Contabilidade Ii
+1739	313	60	40	61	1	1	Algoritmos E Estruturas De Dados 1
+1740	299	154	50	35	1	1	Introdução À Computação
+1743	229	83	40	35	1	1	Desenho: Observação E Expressão
+1745	68	88	12	10	1	1	Processo De Cuidar Em Saúde Da Criança E Do Adolescente Ii
+1746	206	41	24	25	2	1	Tópicos Em Contabilidade I
+1749	263	77	50	36	1	1	Cálculo Diferencial
+1751	69	79	60	29	1	1	Laboratório De Engenharia De Software
+1754	36	60	45	45	1	1	Visualização De Informações
+1756	34	12	60	33	1	1	Economia Política
+1757	500	188	25	18	1	1	Fundamentos Da Matemática Aplicados À Química
+1758	436	83	25	42	3	1	Dibujo Del Paisaje Urbano
+1760	8	161	22	1	1	1	Introdução À Prática Profissional
+1761	505	74	40	24	1	1	Segurança
+1765	229	83	40	36	1	1	Introdução À Arquitetura I
+1766	499	189	40	39	1	1	Empreendedorismo
+1767	109	41	48	12	2	1	Tópicos Em Contabilidade I
+1770	69	79	45	33	2	1	Linguagem De Programação Java
+1771	20	8	60	55	1	1	Física I
+1772	20	8	60	60	1	1	Cálculo 1a
+1774	8	161	22	1	1	1	Introdução À Prática Profissional
+1776	506	88	10	1	1	1	Parasitologia Humana
+1780	509	142	50	1	1	1	Ciências Da Natureza: Química Iii
+1784	499	189	40	39	1	1	Introdução À Programação
+1785	34	12	110	79	1	1	Princípios De Economia
+1786	221	53	50	58	1	1	Cálculo 1c
+1787	142	74	60	44	1	1	Cálculo 1a
+1788	170	60	60	28	1	1	Cálculo Numérico
+1789	107	53	18	14	1	1	Bacteriologia Humana
+1790	40	167	15	15	1	1	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço
+1791	65	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço
+1792	239	74	60	15	1	1	Probabilidade E Estatística A
+1793	110	79	60	27	1	1	Probabilidade E Estatística A
+1794	313	60	60	69	1	1	Geometria Analítica
+1795	221	53	50	39	1	1	Cálculo 1c
+1796	353	74	60	53	1	1	Álgebra Linear
+1797	269	167	15	12	1	1	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço
+1798	511	7	1	1	1	1	Imunologia
+1799	135	167	15	14	1	1	Saúde Do Adulto E Do Idoso - Endocrinologia, Otorrinolaringologia, Cirurgia De Cabeça E Pescoço
+1800	9	60	60	76	1	1	Álgebra Linear
+1801	9	60	60	50	1	1	Probabilidade E Estatística A
+1802	430	60	60	17	1	1	Equações Diferenciais Ordinárias
+1803	512	78	12	17	1	1	Estágio Em Educ. Inf. E Anos Ini. Do Ens. Fund Iii
+1804	83	60	60	52	1	1	Cálculo 1a
+1806	516	24	30	30	1	1	Fisiologia
+1807	241	80	40	34	1	1	Imunologia Básica
+1808	40	167	15	11	1	1	Saúde Do Adulto E Do Idoso - Psiquiatria/Medicina Legal E Saúde Mental Coletiva
+1809	478	53	25	25	1	1	Introdução À Farmacologia
+1810	427	73	50	38	1	1	Introdução À Computação
+1811	89	30	5	1	1	1	Núcleos Temáticos De Pesquisa
+1812	9	60	60	63	1	1	Física Iii
+1813	430	60	60	29	1	1	Circuitos Digitais
+1814	517	48			3	1	
+1815	221	53	40	40	1	1	Farmacobotânica
+1816	518	60	60	3	1	1	Direito
+1817	519	13	1	1	1	1	Cálculo 1a
+1818	141	161	27	28	1	1	Promoção Da Saúde I
+1819	221	53	60	14	1	1	Biofísica
+1820	40	167	15	13	1	1	Saúde Da Criança, Adolescente E Saúde Coletiva Infantil
+1821	313	60	60	76	1	1	Física I
+1822	98	161	20	21	1	1	Educação Nutricional Ii
+1823	520	24	55	48	1	1	Farmacologia Aplicada A Enfermagem
+1824	221	53	30	22	1	1	Farmacobotânica
+1825	516	24	30	30	1	1	Fisiologia
+1826	34	12	100	32	1	1	Princípios De Economia
+1827	221	53	55	33	1	1	Bioquímica
+1828	372	73	50	33	1	1	Morfologia E Taxonomia Vegetal
+1829	35	93	25	24	2	1	Ecologia Do Cerrado
+1830	162	161	30	30	1	1	Nutrição Em Saúde Pública Ii
+1831	478	53	50	48	1	1	Introdução À Farmacologia
+1832	40	167	15	15	1	1	Saúde Do Adulto E Do Idoso - Sistema Locomotor, Cirurgia Plástica E Geriatria/Cuidados Paliativos
+1833	221	53	10	6	1	1	Farmacobotânica
+1834	269	167	15	12	1	1	Saúde Do Adulto E Do Idoso - Sistema Urinário
+1835	224	18	40	29	3	1	Geografia Agrária I
+1836	221	53	70	62	1	1	Farmacobotânica
+1837	519	13	1	1	1	1	Cálculo 2a
+1838	170	60	60	24	1	1	Eletrônica Para Computação
+1839	191	161	30	26	1	1	Nutrição Materno-Infantil E Do Adolescente Ii
+1840	478	53	25	23	1	1	Introdução À Farmacologia
+1841	478	53	75	47	1	1	Fisiologia Humana E Biofísica
+1842	478	53	45	27	1	1	Fisiologia Humana E Biofísica
+1843	8	161	42	39	3	1	Fundamentos Teórico-Práticos Do Sistema Único De Saúde
+1844	64	20	50	20	1	1	Psicologia Da Educação I
+1845	189	161	30	30	1	1	Educação Nutricional I
+1846	478	53	45	23	1	1	Fisiologia Humana E Biofísica
+1847	521	152	50	20	2	1	Tópicos De Filosofia Vi
