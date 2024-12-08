@@ -1,13 +1,12 @@
-# Grafo Tripartite 🚀
+# Alocaçao de salas usando fluxo máximo de custo mínimo em grafos bipartidos 🚀
 
 **Bem-vindo!**  
-Esta é uma Aplicação Web criada para representar relações entre pessoas, empresas e universidades em grafos. Aqui você encontrará as informações necessárias para instalar, configurar e utilizar a Aplicação.
+O problema consiste em, dado um conjunto de pedidos para uso de salas e um conjunto de salas disponíveis, otimizar a ocupação das ̃salas garantindo que cada sala tenha capacidade suficiente para que as pessoasfiquem sentadas.
 
 ## Sumário 📋
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Rotas Principais](#rotas-principais)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
