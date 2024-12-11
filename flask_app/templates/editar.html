@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Disciplina</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">Alocação de Salas</div>
+    </header>
+
+    <main>
+        <section id="editar">
+            <h2>Editar Disciplina</h2>
+            <form action="/editar/{{ disciplina.id }}" method="post">
+                <div>
+                    <label for="curso">Curso:</label>
+                    <input type="text" id="curso" name="curso" value="{{ disciplina.curso }}" required>
+                </div>
+                <div>
+                    <label for="disciplina">Disciplina:</label>
+                    <input type="text" id="disciplina" name="disciplina" value="{{ disciplina.disciplina }}" required>
+                </div>
+                <div>
+                    <label for="coordenador">Coordenador:</label>
+                    <input type="text" id="coordenador" name="coordenador" value="{{ disciplina.coordenador }}" required>
+                </div>
+                <div>
+                    <label for="periodo">Período:</label>
+                    <input type="text" id="periodo" name="periodo" value="{{ disciplina.periodo }}" required>
+                </div>
+                <div>
+                    <label for="turma">Turma:</label>
+                    <input type="number" id="turma" name="turma" value="{{ disciplina.turma }}" required>
+                </div>
+                <div>
+                    <label for="numero_alunos">Número de Alunos:</label>
+                    <input type="number" id="numero_alunos" name="numero_alunos" value="{{ disciplina.numero_alunos }}" required>
+                </div>
+                <button type="submit">Atualizar</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

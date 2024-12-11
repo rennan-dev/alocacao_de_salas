@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciamento de Disciplinas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="logo">Alocação de Salas</div>
+        <nav>
+            <a href="#adicionar">Adicionar Disciplina</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="adicionar">
+            <h2>Adicionar Disciplina</h2>
+            <form action="/adicionar" method="post">
+                <div>
+                    <label for="curso">Curso:</label>
+                    <input type="text" id="curso" name="curso" required>
+                </div>
+                <div>
+                    <label for="disciplina">Disciplina:</label>
+                    <input type="text" id="disciplina" name="disciplina" required>
+                </div>
+                <div>
+                    <label for="coordenador">Coordenador:</label>
+                    <input type="text" id="coordenador" name="coordenador" required>
+                </div>
+                <div>
+                    <label for="periodo">Período:</label>
+                    <input type="text" id="periodo" name="periodo" required>
+                </div>
+                <div>
+                    <label for="turma">Turma:</label>
+                    <input type="number" id="turma" name="turma" required>
+                </div>
+                <div>
+                    <label for="numero_alunos">Número de Alunos:</label>
+                    <input type="number" id="numero_alunos" name="numero_alunos" required>
+                </div>
+                <button type="submit">Adicionar</button>
+            </form>
+        </section>
+
+        <section class="disciplinas">
+            <h2>Lista de Disciplinas</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Número</th>
+                        <th>Curso</th>
+                        <th>Disciplina</th>
+                        <th>Coordenador</th>
+                        <th>Período</th>
+                        <th>Turma</th>
+                        <th>Número de Alunos</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for disciplina in disciplinas %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ disciplina.curso }}</td>
+                        <td>{{ disciplina.disciplina }}</td>
+                        <td>{{ disciplina.coordenador }}</td>
+                        <td>{{ disciplina.periodo }}</td>
+                        <td>{{ disciplina.turma }}</td>
+                        <td>{{ disciplina.numero_alunos }}</td>
+                        <td class="actions">
+                            <form action="{{ url_for('excluir', id=disciplina.id) }}" method="post" style="display:inline;">
+                                <a href="{{ url_for('editar', id=disciplina.id) }}">Editar</a>
+                                <button type="submit" 
+                                onclick="return confirm('Tem certeza que deseja excluir esta disciplina?');">Excluir</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </section>
+    </main>
+</body>
+</html>
